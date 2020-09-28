@@ -1,0 +1,3061 @@
+
+-[08.09.20 15:14:28:459] - [WARNING] - DataBase: Empty password is bad idea.
+-[08.09.20 15:14:28:459] - [INFO] - DB Connected.
+-[08.09.20 15:14:28:459] - [DEBUG] - MAIN
+-[08.09.20 15:14:28:459] - [INFO] - End application
+-[08.09.20 15:14:28:459] - [INFO] - DB Disconected
+-[09.09.20 11:28:28:867] - [WARNING] - DataBase: Empty password is bad idea.
+-[09.09.20 11:28:28:868] - [INFO] - DB Connected.
+-[09.09.20 11:28:28:868] - [INFO] - DB Disconected
+-[09.09.20 17:11:31:352] - [WARNING] - DataBase: Empty password is bad idea.
+-[09.09.20 17:11:31:352] - [INFO] - DB Connected.
+-[09.09.20 17:13:47:572] - [WARNING] - DataBase: Empty password is bad idea.
+-[09.09.20 17:13:47:572] - [INFO] - DB Connected.
+-[09.09.20 17:19:44:493] - [WARNING] - DataBase: Empty password is bad idea.
+-[09.09.20 17:19:44:493] - [INFO] - DB Connected.
+-[09.09.20 17:19:44:493] - [INFO] - DB Disconected
+-[10.09.20 09:10:10:141] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:10:10:142] - [INFO] - DB Connected.
+-[10.09.20 09:10:10:142] - [INFO] - DB Disconected
+-[10.09.20 09:10:13:748] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:10:13:748] - [INFO] - DB Connected.
+-[10.09.20 09:10:13:748] - [INFO] - DB Disconected
+-[10.09.20 09:26:04:477] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:26:04:478] - [INFO] - DB Connected.
+-[10.09.20 09:26:10:499] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:26:10:500] - [INFO] - DB Connected.
+-[10.09.20 09:38:54:064] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:38:54:065] - [INFO] - DB Connected.
+-[10.09.20 09:39:55:605] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:39:55:605] - [INFO] - DB Connected.
+-[10.09.20 09:41:07:112] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:41:07:113] - [INFO] - DB Connected.
+-[10.09.20 09:41:07:113] - [INFO] - DB Disconected
+-[10.09.20 09:41:45:892] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:41:45:892] - [INFO] - DB Connected.
+-[10.09.20 09:41:45:893] - [INFO] - DB Disconected
+-[10.09.20 09:57:10:574] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 09:57:10:574] - [INFO] - DB Connected.
+-[10.09.20 09:57:10:574] - [INFO] - DB Disconected
+-[10.09.20 11:19:40:532] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:19:40:532] - [INFO] - DB Connected.
+-[10.09.20 11:19:40:532] - [INFO] - DB Disconected
+-[10.09.20 11:20:37:035] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:20:37:035] - [INFO] - DB Connected.
+-[10.09.20 11:20:37:035] - [INFO] - DB Disconected
+-[10.09.20 11:24:17:920] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:24:17:921] - [INFO] - DB Connected.
+-[10.09.20 11:24:17:921] - [INFO] - DB Disconected
+-[10.09.20 11:24:51:093] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:24:51:094] - [INFO] - DB Connected.
+-[10.09.20 11:24:51:094] - [INFO] - DB Disconected
+-[10.09.20 11:56:05:476] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:56:05:477] - [INFO] - DB Connected.
+-[10.09.20 11:56:07:413] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:56:07:414] - [INFO] - DB Connected.
+-[10.09.20 11:56:50:899] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:56:50:899] - [INFO] - DB Connected.
+-[10.09.20 11:57:29:405] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 11:57:29:405] - [INFO] - DB Connected.
+-[10.09.20 11:57:29:405] - [INFO] - DB Disconected
+-[10.09.20 12:14:34:555] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 12:14:34:556] - [INFO] - DB Connected.
+-[10.09.20 12:17:46:04] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 12:17:46:04] - [INFO] - DB Connected.
+-[10.09.20 12:17:46:04] - [INFO] - DB Disconected
+-[10.09.20 12:21:36:511] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 12:21:36:511] - [INFO] - DB Connected.
+-[10.09.20 12:22:17:932] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 12:22:17:933] - [INFO] - DB Connected.
+-[10.09.20 12:22:17:933] - [INFO] - DB Disconected
+-[10.09.20 13:06:17:385] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:06:17:386] - [INFO] - DB Connected.
+-[10.09.20 13:06:17:386] - [INFO] - DB Disconected
+-[10.09.20 13:10:15:914] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:10:15:915] - [INFO] - DB Connected.
+-[10.09.20 13:10:15:915] - [INFO] - DB Disconected
+-[10.09.20 13:10:20:830] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:10:20:830] - [INFO] - DB Connected.
+-[10.09.20 13:10:20:830] - [INFO] - DB Disconected
+-[10.09.20 13:11:02:918] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:11:02:919] - [INFO] - DB Connected.
+-[10.09.20 13:11:02:919] - [INFO] - DB Disconected
+-[10.09.20 13:11:04:117] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:11:04:118] - [INFO] - DB Connected.
+-[10.09.20 13:11:04:118] - [INFO] - DB Disconected
+-[10.09.20 13:11:14:600] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:11:14:600] - [INFO] - DB Connected.
+-[10.09.20 13:11:14:600] - [INFO] - DB Disconected
+-[10.09.20 13:11:42:579] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:11:42:579] - [INFO] - DB Connected.
+-[10.09.20 13:11:42:580] - [INFO] - DB Disconected
+-[10.09.20 13:11:45:473] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 13:11:45:474] - [INFO] - DB Connected.
+-[10.09.20 13:11:45:474] - [INFO] - DB Disconected
+-[10.09.20 15:45:38:796] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:45:38:796] - [INFO] - DB Connected.
+-[10.09.20 15:50:25:496] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:50:25:496] - [INFO] - DB Connected.
+-[10.09.20 15:54:52:372] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:54:52:372] - [INFO] - DB Connected.
+-[10.09.20 15:56:40:544] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:56:40:545] - [INFO] - DB Connected.
+-[10.09.20 15:58:38:171] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:58:38:171] - [INFO] - DB Connected.
+-[10.09.20 15:58:38:171] - [INFO] - DB Disconected
+-[10.09.20 15:58:40:134] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:58:40:135] - [INFO] - DB Connected.
+-[10.09.20 15:58:40:135] - [INFO] - DB Disconected
+-[10.09.20 15:58:40:768] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:58:40:768] - [INFO] - DB Connected.
+-[10.09.20 15:58:40:769] - [INFO] - DB Disconected
+-[10.09.20 15:58:41:238] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:58:41:239] - [INFO] - DB Connected.
+-[10.09.20 15:58:41:239] - [INFO] - DB Disconected
+-[10.09.20 15:58:41:690] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:58:41:691] - [INFO] - DB Connected.
+-[10.09.20 15:58:41:691] - [INFO] - DB Disconected
+-[10.09.20 15:58:51:590] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:58:51:590] - [INFO] - DB Connected.
+-[10.09.20 15:58:51:590] - [INFO] - DB Disconected
+-[10.09.20 15:59:24:162] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 15:59:24:163] - [INFO] - DB Connected.
+-[10.09.20 15:59:24:163] - [INFO] - DB Disconected
+-[10.09.20 16:07:57:341] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:07:57:341] - [INFO] - DB Connected.
+-[10.09.20 16:10:21:587] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:10:21:588] - [INFO] - DB Connected.
+-[10.09.20 16:11:49:724] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:11:49:725] - [INFO] - DB Connected.
+-[10.09.20 16:14:07:964] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:14:07:964] - [INFO] - DB Connected.
+-[10.09.20 16:16:14:064] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:16:14:065] - [INFO] - DB Connected.
+-[10.09.20 16:17:17:446] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:17:17:446] - [INFO] - DB Connected.
+-[10.09.20 16:35:38:021] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:35:38:021] - [INFO] - DB Connected.
+-[10.09.20 16:53:11:743] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:53:11:743] - [INFO] - DB Connected.
+-[10.09.20 16:53:50:221] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:53:50:222] - [INFO] - DB Connected.
+-[10.09.20 16:53:52:105] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:53:52:105] - [INFO] - DB Connected.
+-[10.09.20 16:54:15:542] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:54:15:542] - [INFO] - DB Connected.
+-[10.09.20 16:57:28:990] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 16:57:28:990] - [INFO] - DB Connected.
+-[10.09.20 17:10:22:375] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:10:22:376] - [INFO] - DB Connected.
+-[10.09.20 17:14:32:890] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:14:32:890] - [INFO] - DB Connected.
+-[10.09.20 17:14:32:890] - [INFO] - DB Disconected
+-[10.09.20 17:16:00:932] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:16:00:932] - [INFO] - DB Connected.
+-[10.09.20 17:16:00:933] - [INFO] - DB Disconected
+-[10.09.20 17:16:30:357] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:16:30:358] - [INFO] - DB Connected.
+-[10.09.20 17:16:30:358] - [INFO] - DB Disconected
+-[10.09.20 17:18:24:930] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:18:24:931] - [INFO] - DB Connected.
+-[10.09.20 17:18:24:931] - [INFO] - DB Disconected
+-[10.09.20 17:19:57:218] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:19:57:218] - [INFO] - DB Connected.
+-[10.09.20 17:19:57:219] - [INFO] - DB Disconected
+-[10.09.20 17:37:12:508] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:37:12:512] - [INFO] - DB Connected.
+-[10.09.20 17:37:12:512] - [INFO] - DB Disconected
+-[10.09.20 17:37:28:316] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:37:28:316] - [INFO] - DB Connected.
+-[10.09.20 17:37:28:317] - [INFO] - DB Disconected
+-[10.09.20 17:37:43:561] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:37:43:562] - [INFO] - DB Connected.
+-[10.09.20 17:37:43:562] - [INFO] - DB Disconected
+-[10.09.20 17:53:29:971] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:53:29:971] - [INFO] - DB Connected.
+-[10.09.20 17:58:03:820] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:58:03:821] - [INFO] - DB Connected.
+-[10.09.20 17:58:35:305] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 17:58:35:305] - [INFO] - DB Connected.
+-[10.09.20 18:00:24:947] - [WARNING] - DataBase: Empty password is bad idea.
+-[10.09.20 18:00:24:947] - [INFO] - DB Connected.
+-[11.09.20 09:22:38:366] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:22:38:369] - [INFO] - DB Connected.
+-[11.09.20 09:25:20:123] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:25:20:123] - [INFO] - DB Connected.
+-[11.09.20 09:26:40:408] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:26:40:409] - [INFO] - DB Connected.
+-[11.09.20 09:27:02:081] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:27:02:081] - [INFO] - DB Connected.
+-[11.09.20 09:27:02:081] - [INFO] - DB Disconected
+-[11.09.20 09:27:13:414] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:27:13:415] - [INFO] - DB Connected.
+-[11.09.20 09:27:40:586] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:27:40:587] - [INFO] - DB Connected.
+-[11.09.20 09:27:48:889] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:27:48:889] - [INFO] - DB Connected.
+-[11.09.20 09:28:03:561] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:28:03:561] - [INFO] - DB Connected.
+-[11.09.20 09:32:24:841] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:32:24:842] - [INFO] - DB Connected.
+-[11.09.20 09:33:15:400] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:33:15:401] - [INFO] - DB Connected.
+-[11.09.20 09:33:19:186] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:33:19:187] - [INFO] - DB Connected.
+-[11.09.20 09:34:58:200] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:34:58:200] - [INFO] - DB Connected.
+-[11.09.20 09:40:03:626] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:40:03:626] - [INFO] - DB Connected.
+-[11.09.20 09:40:25:850] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:40:25:851] - [INFO] - DB Connected.
+-[11.09.20 09:40:26:849] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:40:26:849] - [INFO] - DB Connected.
+-[11.09.20 09:40:27:135] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:40:27:136] - [INFO] - DB Connected.
+-[11.09.20 09:40:27:382] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:40:27:382] - [INFO] - DB Connected.
+-[11.09.20 09:40:27:608] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:40:27:609] - [INFO] - DB Connected.
+-[11.09.20 09:42:23:338] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:42:23:338] - [INFO] - DB Connected.
+-[11.09.20 09:43:31:296] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:43:31:296] - [INFO] - DB Connected.
+-[11.09.20 09:43:37:294] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:43:37:295] - [INFO] - DB Connected.
+-[11.09.20 09:43:50:326] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:43:50:327] - [INFO] - DB Connected.
+-[11.09.20 09:45:23:793] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:45:23:794] - [INFO] - DB Connected.
+-[11.09.20 09:48:42:629] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:48:42:629] - [INFO] - DB Connected.
+-[11.09.20 09:49:09:878] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:49:09:883] - [INFO] - DB Connected.
+-[11.09.20 09:52:53:956] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:52:53:957] - [INFO] - DB Connected.
+-[11.09.20 09:52:53:957] - [INFO] - DB Disconected
+-[11.09.20 09:53:20:801] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:53:20:801] - [INFO] - DB Connected.
+-[11.09.20 09:53:36:790] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:53:36:791] - [INFO] - DB Connected.
+-[11.09.20 09:53:45:637] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 09:53:45:637] - [INFO] - DB Connected.
+-[11.09.20 09:53:45:637] - [INFO] - DB Disconected
+-[11.09.20 10:07:06:682] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:07:06:683] - [INFO] - DB Connected.
+-[11.09.20 10:07:06:683] - [INFO] - DB Disconected
+-[11.09.20 10:09:41:145] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:09:41:145] - [INFO] - DB Connected.
+-[11.09.20 10:09:41:145] - [INFO] - DB Disconected
+-[11.09.20 10:10:09:857] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:10:09:858] - [INFO] - DB Connected.
+-[11.09.20 10:10:09:858] - [INFO] - DB Disconected
+-[11.09.20 10:11:02:128] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:11:02:129] - [INFO] - DB Connected.
+-[11.09.20 10:11:02:129] - [INFO] - DB Disconected
+-[11.09.20 10:11:11:721] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:11:11:722] - [INFO] - DB Connected.
+-[11.09.20 10:11:32:591] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:11:32:591] - [INFO] - DB Connected.
+-[11.09.20 10:11:32:591] - [INFO] - DB Disconected
+-[11.09.20 10:11:44:245] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:11:44:246] - [INFO] - DB Connected.
+-[11.09.20 10:11:49:450] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:11:49:451] - [INFO] - DB Connected.
+-[11.09.20 10:11:49:451] - [INFO] - DB Disconected
+-[11.09.20 10:11:55:806] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:11:55:806] - [INFO] - DB Connected.
+-[11.09.20 10:12:05:580] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:12:05:580] - [INFO] - DB Connected.
+-[11.09.20 10:12:05:580] - [INFO] - DB Disconected
+-[11.09.20 10:12:15:466] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:12:15:467] - [INFO] - DB Connected.
+-[11.09.20 10:12:32:495] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:12:32:495] - [INFO] - DB Connected.
+-[11.09.20 10:12:34:192] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:12:34:226] - [INFO] - DB Connected.
+-[11.09.20 10:12:58:282] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:12:58:283] - [INFO] - DB Connected.
+-[11.09.20 10:13:19:107] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:13:19:107] - [INFO] - DB Connected.
+-[11.09.20 10:13:37:494] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:13:37:495] - [INFO] - DB Connected.
+-[11.09.20 10:13:38:703] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:13:38:704] - [INFO] - DB Connected.
+-[11.09.20 10:13:39:071] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:13:39:071] - [INFO] - DB Connected.
+-[11.09.20 10:13:39:337] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:13:39:337] - [INFO] - DB Connected.
+-[11.09.20 10:13:56:516] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:13:56:516] - [INFO] - DB Connected.
+-[11.09.20 10:13:56:516] - [INFO] - DB Disconected
+-[11.09.20 10:14:29:042] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:14:29:043] - [INFO] - DB Connected.
+-[11.09.20 10:14:41:721] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 10:14:41:721] - [INFO] - DB Connected.
+-[11.09.20 10:14:41:721] - [INFO] - DB Disconected
+-[11.09.20 11:06:45:087] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 11:06:45:087] - [INFO] - DB Connected.
+-[11.09.20 11:06:45:088] - [INFO] - DB Disconected
+-[11.09.20 11:07:01:048] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 11:07:01:048] - [INFO] - DB Connected.
+-[11.09.20 11:07:01:049] - [INFO] - DB Disconected
+-[11.09.20 11:52:40:215] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 11:52:40:215] - [INFO] - DB Connected.
+-[11.09.20 11:52:40:223] - [INFO] - DB Disconected
+-[11.09.20 11:53:40:465] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 11:53:40:466] - [INFO] - DB Connected.
+-[11.09.20 11:53:40:466] - [INFO] - DB Disconected
+-[11.09.20 12:03:57:112] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:03:57:112] - [INFO] - DB Connected.
+-[11.09.20 12:03:57:113] - [INFO] - DB Disconected
+-[11.09.20 12:07:27:399] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:07:27:400] - [INFO] - DB Connected.
+-[11.09.20 12:07:27:400] - [INFO] - DB Disconected
+-[11.09.20 12:08:37:814] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:08:37:815] - [INFO] - DB Connected.
+-[11.09.20 12:08:37:815] - [INFO] - DB Disconected
+-[11.09.20 12:08:40:616] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:08:40:617] - [INFO] - DB Connected.
+-[11.09.20 12:08:40:617] - [INFO] - DB Disconected
+-[11.09.20 12:09:02:033] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:09:02:034] - [INFO] - DB Connected.
+-[11.09.20 12:09:02:034] - [INFO] - DB Disconected
+-[11.09.20 12:09:22:942] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:09:22:943] - [INFO] - DB Connected.
+-[11.09.20 12:09:22:943] - [INFO] - DB Disconected
+-[11.09.20 12:10:47:479] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:10:47:480] - [INFO] - DB Connected.
+-[11.09.20 12:10:47:480] - [INFO] - DB Disconected
+-[11.09.20 12:12:35:912] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:12:35:912] - [INFO] - DB Connected.
+-[11.09.20 12:12:35:912] - [INFO] - DB Disconected
+-[11.09.20 12:13:23:556] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:13:23:556] - [INFO] - DB Connected.
+-[11.09.20 12:13:23:557] - [INFO] - DB Disconected
+-[11.09.20 12:13:39:692] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:13:39:692] - [INFO] - DB Connected.
+-[11.09.20 12:13:39:692] - [INFO] - DB Disconected
+-[11.09.20 12:14:36:609] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:14:36:610] - [INFO] - DB Connected.
+-[11.09.20 12:14:36:610] - [INFO] - DB Disconected
+-[11.09.20 12:14:46:065] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:14:46:065] - [INFO] - DB Connected.
+-[11.09.20 12:14:46:065] - [INFO] - DB Disconected
+-[11.09.20 12:20:57:436] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:20:57:436] - [INFO] - DB Connected.
+-[11.09.20 12:20:57:436] - [INFO] - DB Disconected
+-[11.09.20 12:22:36:809] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 12:22:36:809] - [INFO] - DB Connected.
+-[11.09.20 12:22:36:810] - [INFO] - DB Disconected
+-[11.09.20 13:38:26:921] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:38:26:921] - [INFO] - DB Connected.
+-[11.09.20 13:38:26:921] - [INFO] - DB Disconected
+-[11.09.20 13:38:41:562] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:38:41:563] - [INFO] - DB Connected.
+-[11.09.20 13:38:41:563] - [INFO] - DB Disconected
+-[11.09.20 13:39:07:761] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:39:07:761] - [INFO] - DB Connected.
+-[11.09.20 13:39:07:761] - [INFO] - DB Disconected
+-[11.09.20 13:39:39:241] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:39:39:241] - [INFO] - DB Connected.
+-[11.09.20 13:39:39:241] - [INFO] - DB Disconected
+-[11.09.20 13:39:50:167] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:39:50:168] - [INFO] - DB Connected.
+-[11.09.20 13:39:50:168] - [INFO] - DB Disconected
+-[11.09.20 13:40:18:321] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:40:18:322] - [INFO] - DB Connected.
+-[11.09.20 13:40:18:322] - [INFO] - DB Disconected
+-[11.09.20 13:44:44:443] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:44:44:443] - [INFO] - DB Connected.
+-[11.09.20 13:44:44:444] - [INFO] - DB Disconected
+-[11.09.20 13:44:48:082] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:44:48:082] - [INFO] - DB Connected.
+-[11.09.20 13:44:48:082] - [INFO] - DB Disconected
+-[11.09.20 13:45:54:265] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:45:54:266] - [INFO] - DB Connected.
+-[11.09.20 13:45:54:266] - [INFO] - DB Disconected
+-[11.09.20 13:46:24:572] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:46:24:572] - [INFO] - DB Connected.
+-[11.09.20 13:46:24:572] - [INFO] - DB Disconected
+-[11.09.20 13:46:37:976] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:46:37:977] - [INFO] - DB Connected.
+-[11.09.20 13:46:37:977] - [INFO] - DB Disconected
+-[11.09.20 13:49:27:395] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:49:27:396] - [INFO] - DB Connected.
+-[11.09.20 13:49:27:396] - [INFO] - DB Disconected
+-[11.09.20 13:49:51:405] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:49:51:405] - [INFO] - DB Connected.
+-[11.09.20 13:49:51:406] - [INFO] - DB Disconected
+-[11.09.20 13:50:26:685] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 13:50:26:685] - [INFO] - DB Connected.
+-[11.09.20 13:50:26:685] - [INFO] - DB Disconected
+-[11.09.20 14:04:53:529] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:04:53:530] - [INFO] - DB Connected.
+-[11.09.20 14:04:53:530] - [INFO] - DB Disconected
+-[11.09.20 14:30:40:615] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:30:40:615] - [INFO] - DB Connected.
+-[11.09.20 14:30:40:615] - [INFO] - DB Disconected
+-[11.09.20 14:31:17:164] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:17:165] - [INFO] - DB Connected.
+-[11.09.20 14:31:17:165] - [INFO] - DB Disconected
+-[11.09.20 14:31:17:793] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:17:794] - [INFO] - DB Connected.
+-[11.09.20 14:31:17:794] - [INFO] - DB Disconected
+-[11.09.20 14:31:18:027] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:18:028] - [INFO] - DB Connected.
+-[11.09.20 14:31:18:028] - [INFO] - DB Disconected
+-[11.09.20 14:31:18:217] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:18:218] - [INFO] - DB Connected.
+-[11.09.20 14:31:18:218] - [INFO] - DB Disconected
+-[11.09.20 14:31:18:431] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:18:432] - [INFO] - DB Connected.
+-[11.09.20 14:31:18:432] - [INFO] - DB Disconected
+-[11.09.20 14:31:18:604] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:18:605] - [INFO] - DB Connected.
+-[11.09.20 14:31:18:605] - [INFO] - DB Disconected
+-[11.09.20 14:31:18:839] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:18:840] - [INFO] - DB Connected.
+-[11.09.20 14:31:18:840] - [INFO] - DB Disconected
+-[11.09.20 14:31:19:061] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:19:061] - [INFO] - DB Connected.
+-[11.09.20 14:31:19:061] - [INFO] - DB Disconected
+-[11.09.20 14:31:37:076] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:31:37:076] - [INFO] - DB Connected.
+-[11.09.20 14:31:37:077] - [INFO] - DB Disconected
+-[11.09.20 14:34:34:772] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:34:34:772] - [INFO] - DB Connected.
+-[11.09.20 14:34:34:773] - [INFO] - DB Disconected
+-[11.09.20 14:34:50:706] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:34:50:706] - [INFO] - DB Connected.
+-[11.09.20 14:34:50:706] - [INFO] - DB Disconected
+-[11.09.20 14:35:21:602] - [WARNING] - DataBase: Empty password is bad idea.
+-[11.09.20 14:35:21:603] - [INFO] - DB Connected.
+-[11.09.20 14:35:21:603] - [INFO] - DB Disconected
+-[12.09.20 07:58:27:911] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:27:912] - [INFO] - DB Connected.
+-[12.09.20 07:58:27:912] - [INFO] - DB Disconected
+-[12.09.20 07:58:28:733] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:28:733] - [INFO] - DB Connected.
+-[12.09.20 07:58:28:733] - [INFO] - DB Disconected
+-[12.09.20 07:58:29:126] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:29:127] - [INFO] - DB Connected.
+-[12.09.20 07:58:29:127] - [INFO] - DB Disconected
+-[12.09.20 07:58:29:772] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:29:772] - [INFO] - DB Connected.
+-[12.09.20 07:58:29:773] - [INFO] - DB Disconected
+-[12.09.20 07:58:30:490] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:30:491] - [INFO] - DB Connected.
+-[12.09.20 07:58:30:491] - [INFO] - DB Disconected
+-[12.09.20 07:58:31:203] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:31:204] - [INFO] - DB Connected.
+-[12.09.20 07:58:31:205] - [INFO] - DB Disconected
+-[12.09.20 07:58:31:423] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:31:424] - [INFO] - DB Connected.
+-[12.09.20 07:58:31:425] - [INFO] - DB Disconected
+-[12.09.20 07:58:31:623] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:31:624] - [INFO] - DB Connected.
+-[12.09.20 07:58:31:624] - [INFO] - DB Disconected
+-[12.09.20 07:58:31:826] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 07:58:31:826] - [INFO] - DB Connected.
+-[12.09.20 07:58:31:827] - [INFO] - DB Disconected
+-[12.09.20 14:40:35:965] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:40:35:966] - [INFO] - DB Connected.
+-[12.09.20 14:40:35:966] - [INFO] - DB Disconected
+-[12.09.20 14:41:14:864] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:41:14:864] - [INFO] - DB Connected.
+-[12.09.20 14:41:14:864] - [INFO] - DB Disconected
+-[12.09.20 14:41:25:885] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:41:25:886] - [INFO] - DB Connected.
+-[12.09.20 14:41:25:886] - [INFO] - DB Disconected
+-[12.09.20 14:41:54:04] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:41:54:04] - [INFO] - DB Connected.
+-[12.09.20 14:41:54:04] - [INFO] - DB Disconected
+-[12.09.20 14:42:06:067] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:42:06:067] - [INFO] - DB Connected.
+-[12.09.20 14:42:06:068] - [INFO] - DB Disconected
+-[12.09.20 14:47:17:395] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:47:17:395] - [INFO] - DB Connected.
+-[12.09.20 14:47:17:395] - [INFO] - DB Disconected
+-[12.09.20 14:47:42:956] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:47:42:956] - [INFO] - DB Connected.
+-[12.09.20 14:47:42:956] - [INFO] - DB Disconected
+-[12.09.20 14:47:43:567] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:47:43:568] - [INFO] - DB Connected.
+-[12.09.20 14:47:43:568] - [INFO] - DB Disconected
+-[12.09.20 14:47:43:879] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:47:43:880] - [INFO] - DB Connected.
+-[12.09.20 14:47:43:880] - [INFO] - DB Disconected
+-[12.09.20 14:47:44:034] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:47:44:035] - [INFO] - DB Connected.
+-[12.09.20 14:47:44:035] - [INFO] - DB Disconected
+-[12.09.20 14:47:44:440] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:47:44:440] - [INFO] - DB Connected.
+-[12.09.20 14:47:44:441] - [INFO] - DB Disconected
+-[12.09.20 14:49:38:084] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:49:38:084] - [INFO] - DB Connected.
+-[12.09.20 14:49:38:085] - [INFO] - DB Disconected
+-[12.09.20 14:52:12:298] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:52:12:299] - [INFO] - DB Connected.
+-[12.09.20 14:52:12:299] - [INFO] - DB Disconected
+-[12.09.20 14:52:35:284] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:52:35:285] - [INFO] - DB Connected.
+-[12.09.20 14:52:35:285] - [INFO] - DB Disconected
+-[12.09.20 14:52:39:571] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:52:39:571] - [INFO] - DB Connected.
+-[12.09.20 14:52:39:571] - [INFO] - DB Disconected
+-[12.09.20 14:52:59:249] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:52:59:249] - [INFO] - DB Connected.
+-[12.09.20 14:52:59:249] - [INFO] - DB Disconected
+-[12.09.20 14:53:00:376] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:00:376] - [INFO] - DB Connected.
+-[12.09.20 14:53:00:376] - [INFO] - DB Disconected
+-[12.09.20 14:53:06:035] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:06:036] - [INFO] - DB Connected.
+-[12.09.20 14:53:06:036] - [INFO] - DB Disconected
+-[12.09.20 14:53:16:406] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:16:407] - [INFO] - DB Connected.
+-[12.09.20 14:53:16:407] - [INFO] - DB Disconected
+-[12.09.20 14:53:16:883] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:16:884] - [INFO] - DB Connected.
+-[12.09.20 14:53:16:884] - [INFO] - DB Disconected
+-[12.09.20 14:53:17:119] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:17:120] - [INFO] - DB Connected.
+-[12.09.20 14:53:17:120] - [INFO] - DB Disconected
+-[12.09.20 14:53:17:312] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:17:313] - [INFO] - DB Connected.
+-[12.09.20 14:53:17:313] - [INFO] - DB Disconected
+-[12.09.20 14:53:32:799] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:32:799] - [INFO] - DB Connected.
+-[12.09.20 14:53:32:800] - [INFO] - DB Disconected
+-[12.09.20 14:53:44:245] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:44:246] - [INFO] - DB Connected.
+-[12.09.20 14:53:44:246] - [INFO] - DB Disconected
+-[12.09.20 14:53:45:099] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:45:100] - [INFO] - DB Connected.
+-[12.09.20 14:53:45:100] - [INFO] - DB Disconected
+-[12.09.20 14:53:45:957] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:45:957] - [INFO] - DB Connected.
+-[12.09.20 14:53:45:957] - [INFO] - DB Disconected
+-[12.09.20 14:53:50:952] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:50:953] - [INFO] - DB Connected.
+-[12.09.20 14:53:50:953] - [INFO] - DB Disconected
+-[12.09.20 14:53:54:462] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:53:54:463] - [INFO] - DB Connected.
+-[12.09.20 14:53:54:463] - [INFO] - DB Disconected
+-[12.09.20 14:54:16:235] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:54:16:235] - [INFO] - DB Connected.
+-[12.09.20 14:54:16:235] - [INFO] - DB Disconected
+-[12.09.20 14:54:16:866] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:54:16:867] - [INFO] - DB Connected.
+-[12.09.20 14:54:16:867] - [INFO] - DB Disconected
+-[12.09.20 14:54:29:620] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:54:29:620] - [INFO] - DB Connected.
+-[12.09.20 14:54:29:621] - [INFO] - DB Disconected
+-[12.09.20 14:54:30:285] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:54:30:286] - [INFO] - DB Connected.
+-[12.09.20 14:54:30:286] - [INFO] - DB Disconected
+-[12.09.20 14:54:41:919] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:54:41:919] - [INFO] - DB Connected.
+-[12.09.20 14:54:41:919] - [INFO] - DB Disconected
+-[12.09.20 14:55:01:856] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:01:857] - [INFO] - DB Connected.
+-[12.09.20 14:55:01:857] - [INFO] - DB Disconected
+-[12.09.20 14:55:12:812] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:12:813] - [INFO] - DB Connected.
+-[12.09.20 14:55:12:813] - [INFO] - DB Disconected
+-[12.09.20 14:55:16:936] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:16:936] - [INFO] - DB Connected.
+-[12.09.20 14:55:16:937] - [INFO] - DB Disconected
+-[12.09.20 14:55:17:863] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:17:864] - [INFO] - DB Connected.
+-[12.09.20 14:55:17:864] - [INFO] - DB Disconected
+-[12.09.20 14:55:18:270] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:18:270] - [INFO] - DB Connected.
+-[12.09.20 14:55:18:270] - [INFO] - DB Disconected
+-[12.09.20 14:55:21:627] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:21:627] - [INFO] - DB Connected.
+-[12.09.20 14:55:21:628] - [INFO] - DB Disconected
+-[12.09.20 14:55:29:936] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:29:936] - [INFO] - DB Connected.
+-[12.09.20 14:55:29:937] - [INFO] - DB Disconected
+-[12.09.20 14:55:34:425] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:34:426] - [INFO] - DB Connected.
+-[12.09.20 14:55:34:426] - [INFO] - DB Disconected
+-[12.09.20 14:55:35:096] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:35:096] - [INFO] - DB Connected.
+-[12.09.20 14:55:35:097] - [INFO] - DB Disconected
+-[12.09.20 14:55:50:300] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:55:50:301] - [INFO] - DB Connected.
+-[12.09.20 14:55:50:301] - [INFO] - DB Disconected
+-[12.09.20 14:59:07:058] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 14:59:07:059] - [INFO] - DB Connected.
+-[12.09.20 14:59:07:059] - [INFO] - DB Disconected
+-[12.09.20 15:10:24:956] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 15:10:24:957] - [INFO] - DB Connected.
+-[12.09.20 15:10:24:957] - [INFO] - DB Disconected
+-[12.09.20 15:10:35:293] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 15:10:35:293] - [INFO] - DB Connected.
+-[12.09.20 15:10:35:293] - [INFO] - DB Disconected
+-[12.09.20 15:11:07:714] - [WARNING] - DataBase: Empty password is bad idea.
+-[12.09.20 15:11:07:715] - [INFO] - DB Connected.
+-[12.09.20 15:11:07:715] - [INFO] - DB Disconected
+-[14.09.20 10:03:27:617] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 10:03:27:622] - [INFO] - DB Connected.
+-[14.09.20 10:03:27:623] - [INFO] - DB Disconected
+-[14.09.20 10:03:36:917] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 10:03:36:917] - [INFO] - DB Connected.
+-[14.09.20 10:03:36:918] - [INFO] - DB Disconected
+-[14.09.20 12:29:33:845] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:29:33:846] - [INFO] - DB Connected.
+-[14.09.20 12:29:33:846] - [INFO] - DB Disconected
+-[14.09.20 12:29:40:561] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:29:40:562] - [INFO] - DB Connected.
+-[14.09.20 12:30:54:226] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:30:54:227] - [INFO] - DB Connected.
+-[14.09.20 12:30:54:229] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'admin' AND `password` = '21232f297a57a5a743894a0e4a801fc3'"
+-[14.09.20 12:30:54:298] - [DEBUG] - 
+-[14.09.20 12:30:54:299] - [INFO] - DB Disconected
+-[14.09.20 12:30:58:752] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:30:58:753] - [INFO] - DB Connected.
+-[14.09.20 12:30:58:753] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'asdas' AND `password` = 'f5528e0a83d1dab7c8c496f257b52921'"
+-[14.09.20 12:30:58:754] - [DEBUG] - 
+-[14.09.20 12:30:58:754] - [INFO] - DB Disconected
+-[14.09.20 12:31:03:843] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:31:03:844] - [INFO] - DB Connected.
+-[14.09.20 12:31:03:844] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'asda' AND `password` = '7815696ecbf1c96e6894b779456d330e'"
+-[14.09.20 12:31:03:845] - [DEBUG] - 
+-[14.09.20 12:31:03:845] - [INFO] - DB Disconected
+-[14.09.20 12:31:05:181] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:31:05:182] - [INFO] - DB Connected.
+-[14.09.20 12:31:19:663] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:31:19:664] - [INFO] - DB Connected.
+-[14.09.20 12:32:19:195] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:32:19:195] - [INFO] - DB Connected.
+-[14.09.20 12:32:19:196] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'asda' AND `password` = '7815696ecbf1c96e6894b779456d330e'"
+-[14.09.20 12:32:19:196] - [DEBUG] - 
+-[14.09.20 12:32:19:196] - [INFO] - DB Disconected
+-[14.09.20 12:34:16:03] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:34:16:03] - [INFO] - DB Connected.
+-[14.09.20 12:34:16:03] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 12:34:16:04] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 12:35:32:384] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:35:32:384] - [INFO] - DB Connected.
+-[14.09.20 12:35:32:385] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 12:35:32:385] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 12:35:32:385] - [INFO] - DB Disconected
+-[14.09.20 12:35:32:393] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:35:32:394] - [INFO] - DB Connected.
+-[14.09.20 12:38:11:052] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:38:11:052] - [INFO] - DB Connected.
+-[14.09.20 12:38:13:817] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:38:13:817] - [INFO] - DB Connected.
+-[14.09.20 12:41:06:208] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:06:208] - [INFO] - DB Connected.
+-[14.09.20 12:41:06:921] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:06:922] - [INFO] - DB Connected.
+-[14.09.20 12:41:07:135] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:07:135] - [INFO] - DB Connected.
+-[14.09.20 12:41:07:333] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:07:333] - [INFO] - DB Connected.
+-[14.09.20 12:41:07:549] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:07:549] - [INFO] - DB Connected.
+-[14.09.20 12:41:32:400] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:32:400] - [INFO] - DB Connected.
+-[14.09.20 12:41:32:400] - [INFO] - DB Disconected
+-[14.09.20 12:41:38:525] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:38:526] - [INFO] - DB Connected.
+-[14.09.20 12:41:38:526] - [INFO] - DB Disconected
+-[14.09.20 12:41:43:140] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:41:43:141] - [INFO] - DB Connected.
+-[14.09.20 12:41:43:141] - [INFO] - DB Disconected
+-[14.09.20 12:43:55:343] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:43:55:343] - [INFO] - DB Connected.
+-[14.09.20 12:44:02:826] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:02:827] - [INFO] - DB Connected.
+-[14.09.20 12:44:07:124] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:07:124] - [INFO] - DB Connected.
+-[14.09.20 12:44:09:202] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:09:203] - [INFO] - DB Connected.
+-[14.09.20 12:44:09:876] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:09:876] - [INFO] - DB Connected.
+-[14.09.20 12:44:11:749] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:11:750] - [INFO] - DB Connected.
+-[14.09.20 12:44:12:116] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:12:117] - [INFO] - DB Connected.
+-[14.09.20 12:44:17:321] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:17:322] - [INFO] - DB Connected.
+-[14.09.20 12:44:17:322] - [INFO] - DB Disconected
+-[14.09.20 12:44:24:906] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:24:907] - [INFO] - DB Connected.
+-[14.09.20 12:44:24:907] - [INFO] - DB Disconected
+-[14.09.20 12:44:25:665] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:25:665] - [INFO] - DB Connected.
+-[14.09.20 12:44:25:666] - [INFO] - DB Disconected
+-[14.09.20 12:44:26:066] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:26:067] - [INFO] - DB Connected.
+-[14.09.20 12:44:26:067] - [INFO] - DB Disconected
+-[14.09.20 12:44:26:281] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:26:281] - [INFO] - DB Connected.
+-[14.09.20 12:44:26:282] - [INFO] - DB Disconected
+-[14.09.20 12:44:26:467] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:26:468] - [INFO] - DB Connected.
+-[14.09.20 12:44:26:468] - [INFO] - DB Disconected
+-[14.09.20 12:44:26:665] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:26:666] - [INFO] - DB Connected.
+-[14.09.20 12:44:26:666] - [INFO] - DB Disconected
+-[14.09.20 12:44:26:867] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:26:867] - [INFO] - DB Connected.
+-[14.09.20 12:44:26:868] - [INFO] - DB Disconected
+-[14.09.20 12:44:27:400] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:27:400] - [INFO] - DB Connected.
+-[14.09.20 12:44:27:401] - [INFO] - DB Disconected
+-[14.09.20 12:44:28:135] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:28:136] - [INFO] - DB Connected.
+-[14.09.20 12:44:28:136] - [INFO] - DB Disconected
+-[14.09.20 12:44:28:430] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:28:431] - [INFO] - DB Connected.
+-[14.09.20 12:44:28:432] - [INFO] - DB Disconected
+-[14.09.20 12:44:28:683] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:28:684] - [INFO] - DB Connected.
+-[14.09.20 12:44:28:684] - [INFO] - DB Disconected
+-[14.09.20 12:44:28:890] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:28:891] - [INFO] - DB Connected.
+-[14.09.20 12:44:28:891] - [INFO] - DB Disconected
+-[14.09.20 12:44:29:113] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:29:114] - [INFO] - DB Connected.
+-[14.09.20 12:44:29:114] - [INFO] - DB Disconected
+-[14.09.20 12:44:29:341] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:29:341] - [INFO] - DB Connected.
+-[14.09.20 12:44:29:341] - [INFO] - DB Disconected
+-[14.09.20 12:44:31:140] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:31:140] - [INFO] - DB Connected.
+-[14.09.20 12:44:31:140] - [INFO] - DB Disconected
+-[14.09.20 12:44:33:140] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:44:33:140] - [INFO] - DB Connected.
+-[14.09.20 12:44:33:141] - [INFO] - DB Disconected
+-[14.09.20 12:45:01:137] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:01:138] - [INFO] - DB Connected.
+-[14.09.20 12:45:01:138] - [INFO] - DB Disconected
+-[14.09.20 12:45:03:681] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:03:681] - [INFO] - DB Connected.
+-[14.09.20 12:45:03:682] - [INFO] - DB Disconected
+-[14.09.20 12:45:04:209] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:04:210] - [INFO] - DB Connected.
+-[14.09.20 12:45:04:210] - [INFO] - DB Disconected
+-[14.09.20 12:45:04:396] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:04:397] - [INFO] - DB Connected.
+-[14.09.20 12:45:04:397] - [INFO] - DB Disconected
+-[14.09.20 12:45:04:598] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:04:598] - [INFO] - DB Connected.
+-[14.09.20 12:45:04:598] - [INFO] - DB Disconected
+-[14.09.20 12:45:04:778] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:04:778] - [INFO] - DB Connected.
+-[14.09.20 12:45:04:779] - [INFO] - DB Disconected
+-[14.09.20 12:45:04:969] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:04:969] - [INFO] - DB Connected.
+-[14.09.20 12:45:04:969] - [INFO] - DB Disconected
+-[14.09.20 12:45:05:228] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:05:228] - [INFO] - DB Connected.
+-[14.09.20 12:45:05:229] - [INFO] - DB Disconected
+-[14.09.20 12:45:05:557] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:05:557] - [INFO] - DB Connected.
+-[14.09.20 12:45:05:558] - [INFO] - DB Disconected
+-[14.09.20 12:45:05:787] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:05:788] - [INFO] - DB Connected.
+-[14.09.20 12:45:05:788] - [INFO] - DB Disconected
+-[14.09.20 12:45:05:993] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:05:994] - [INFO] - DB Connected.
+-[14.09.20 12:45:05:995] - [INFO] - DB Disconected
+-[14.09.20 12:45:06:176] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:06:176] - [INFO] - DB Connected.
+-[14.09.20 12:45:06:177] - [INFO] - DB Disconected
+-[14.09.20 12:45:06:389] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:06:389] - [INFO] - DB Connected.
+-[14.09.20 12:45:06:389] - [INFO] - DB Disconected
+-[14.09.20 12:45:06:595] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:06:596] - [INFO] - DB Connected.
+-[14.09.20 12:45:06:597] - [INFO] - DB Disconected
+-[14.09.20 12:45:06:813] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:06:814] - [INFO] - DB Connected.
+-[14.09.20 12:45:06:814] - [INFO] - DB Disconected
+-[14.09.20 12:45:07:031] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:07:031] - [INFO] - DB Connected.
+-[14.09.20 12:45:07:032] - [INFO] - DB Disconected
+-[14.09.20 12:45:07:232] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:07:233] - [INFO] - DB Connected.
+-[14.09.20 12:45:07:233] - [INFO] - DB Disconected
+-[14.09.20 12:45:07:471] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:07:472] - [INFO] - DB Connected.
+-[14.09.20 12:45:07:472] - [INFO] - DB Disconected
+-[14.09.20 12:45:12:383] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:12:383] - [INFO] - DB Connected.
+-[14.09.20 12:45:12:384] - [INFO] - DB Disconected
+-[14.09.20 12:45:12:703] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:12:703] - [INFO] - DB Connected.
+-[14.09.20 12:45:12:704] - [INFO] - DB Disconected
+-[14.09.20 12:45:12:935] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:12:936] - [INFO] - DB Connected.
+-[14.09.20 12:45:12:936] - [INFO] - DB Disconected
+-[14.09.20 12:45:13:175] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:13:175] - [INFO] - DB Connected.
+-[14.09.20 12:45:13:175] - [INFO] - DB Disconected
+-[14.09.20 12:45:28:896] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:28:896] - [INFO] - DB Connected.
+-[14.09.20 12:45:28:897] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 12:45:28:898] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 12:45:28:898] - [INFO] - DB Disconected
+-[14.09.20 12:45:28:909] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:28:910] - [INFO] - DB Connected.
+-[14.09.20 12:45:56:757] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:56:757] - [INFO] - DB Connected.
+-[14.09.20 12:45:58:468] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:45:58:469] - [INFO] - DB Connected.
+-[14.09.20 12:46:03:606] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:46:03:606] - [INFO] - DB Connected.
+-[14.09.20 12:58:09:691] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:58:09:691] - [INFO] - DB Connected.
+-[14.09.20 12:58:50:283] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:58:50:285] - [INFO] - DB Connected.
+-[14.09.20 12:58:55:743] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:58:55:745] - [INFO] - DB Connected.
+-[14.09.20 12:58:55:745] - [INFO] - DB Disconected
+-[14.09.20 12:59:11:157] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:59:11:158] - [INFO] - DB Connected.
+-[14.09.20 12:59:11:158] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 12:59:11:158] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 12:59:11:159] - [INFO] - DB Disconected
+-[14.09.20 12:59:11:171] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:59:11:171] - [INFO] - DB Connected.
+-[14.09.20 12:59:15:109] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 12:59:15:110] - [INFO] - DB Connected.
+-[14.09.20 12:59:15:110] - [INFO] - DB Disconected
+-[14.09.20 13:00:00:075] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:00:00:076] - [INFO] - DB Connected.
+-[14.09.20 13:00:00:076] - [INFO] - DB Disconected
+-[14.09.20 13:00:01:03] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:00:01:03] - [INFO] - DB Connected.
+-[14.09.20 13:00:01:04] - [INFO] - DB Disconected
+-[14.09.20 13:00:01:267] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:00:01:267] - [INFO] - DB Connected.
+-[14.09.20 13:00:01:267] - [INFO] - DB Disconected
+-[14.09.20 13:00:01:462] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:00:01:462] - [INFO] - DB Connected.
+-[14.09.20 13:00:01:463] - [INFO] - DB Disconected
+-[14.09.20 13:00:01:659] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:00:01:660] - [INFO] - DB Connected.
+-[14.09.20 13:00:01:660] - [INFO] - DB Disconected
+-[14.09.20 13:00:01:847] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:00:01:847] - [INFO] - DB Connected.
+-[14.09.20 13:00:01:847] - [INFO] - DB Disconected
+-[14.09.20 13:30:12:144] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:30:12:144] - [INFO] - DB Connected.
+-[14.09.20 13:30:12:144] - [INFO] - DB Disconected
+-[14.09.20 13:30:33:284] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:30:33:285] - [INFO] - DB Connected.
+-[14.09.20 13:30:33:286] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:30:33:287] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:30:33:287] - [INFO] - DB Disconected
+-[14.09.20 13:30:33:295] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:30:33:295] - [INFO] - DB Connected.
+-[14.09.20 13:31:11:743] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:31:11:743] - [INFO] - DB Connected.
+-[14.09.20 13:31:11:743] - [INFO] - DB Disconected
+-[14.09.20 13:31:39:02] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:31:39:03] - [INFO] - DB Connected.
+-[14.09.20 13:31:39:03] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:31:39:04] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:31:39:04] - [INFO] - DB Disconected
+-[14.09.20 13:31:39:015] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:31:39:016] - [INFO] - DB Connected.
+-[14.09.20 13:32:37:672] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:37:673] - [INFO] - DB Connected.
+-[14.09.20 13:32:37:673] - [INFO] - DB Disconected
+-[14.09.20 13:32:37:882] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:37:883] - [INFO] - DB Connected.
+-[14.09.20 13:32:38:779] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:38:779] - [INFO] - DB Connected.
+-[14.09.20 13:32:38:779] - [INFO] - DB Disconected
+-[14.09.20 13:32:40:378] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:40:378] - [INFO] - DB Connected.
+-[14.09.20 13:32:40:378] - [INFO] - DB Disconected
+-[14.09.20 13:32:42:457] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:42:458] - [INFO] - DB Connected.
+-[14.09.20 13:32:42:458] - [INFO] - DB Disconected
+-[14.09.20 13:32:42:952] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:42:953] - [INFO] - DB Connected.
+-[14.09.20 13:32:42:953] - [INFO] - DB Disconected
+-[14.09.20 13:32:43:137] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:43:138] - [INFO] - DB Connected.
+-[14.09.20 13:32:43:138] - [INFO] - DB Disconected
+-[14.09.20 13:32:43:332] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:43:333] - [INFO] - DB Connected.
+-[14.09.20 13:32:43:333] - [INFO] - DB Disconected
+-[14.09.20 13:32:43:540] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:43:540] - [INFO] - DB Connected.
+-[14.09.20 13:32:43:540] - [INFO] - DB Disconected
+-[14.09.20 13:32:43:754] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:32:43:754] - [INFO] - DB Connected.
+-[14.09.20 13:32:43:754] - [INFO] - DB Disconected
+-[14.09.20 13:34:58:481] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:34:58:481] - [INFO] - DB Connected.
+-[14.09.20 13:46:20:653] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:46:20:653] - [INFO] - DB Connected.
+-[14.09.20 13:46:20:653] - [INFO] - DB Disconected
+-[14.09.20 13:46:22:801] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:46:22:802] - [INFO] - DB Connected.
+-[14.09.20 13:46:22:802] - [INFO] - DB Disconected
+-[14.09.20 13:46:31:681] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:46:31:682] - [INFO] - DB Connected.
+-[14.09.20 13:46:31:682] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:46:31:683] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:46:31:683] - [INFO] - DB Disconected
+-[14.09.20 13:46:31:693] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:46:31:694] - [INFO] - DB Connected.
+-[14.09.20 13:48:43:786] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:48:43:787] - [INFO] - DB Connected.
+-[14.09.20 13:48:48:192] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:48:48:193] - [INFO] - DB Connected.
+-[14.09.20 13:48:48:193] - [INFO] - DB Disconected
+-[14.09.20 13:48:52:169] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:48:52:170] - [INFO] - DB Connected.
+-[14.09.20 13:48:52:170] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:48:52:171] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:48:52:171] - [INFO] - DB Disconected
+-[14.09.20 13:48:52:178] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:48:52:179] - [INFO] - DB Connected.
+-[14.09.20 13:49:05:383] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:49:05:384] - [INFO] - DB Connected.
+-[14.09.20 13:49:35:974] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:49:35:974] - [INFO] - DB Connected.
+-[14.09.20 13:49:35:975] - [INFO] - DB Disconected
+-[14.09.20 13:49:45:456] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:49:45:456] - [INFO] - DB Connected.
+-[14.09.20 13:49:45:456] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:49:45:457] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:49:45:457] - [INFO] - DB Disconected
+-[14.09.20 13:49:45:467] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:49:45:468] - [INFO] - DB Connected.
+-[14.09.20 13:50:43:450] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:50:43:450] - [INFO] - DB Connected.
+-[14.09.20 13:50:45:869] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:50:45:869] - [INFO] - DB Connected.
+-[14.09.20 13:50:45:869] - [INFO] - DB Disconected
+-[14.09.20 13:50:46:763] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:50:46:763] - [INFO] - DB Connected.
+-[14.09.20 13:50:46:763] - [INFO] - DB Disconected
+-[14.09.20 13:50:47:220] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:50:47:221] - [INFO] - DB Connected.
+-[14.09.20 13:50:47:221] - [INFO] - DB Disconected
+-[14.09.20 13:50:50:909] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:50:50:910] - [INFO] - DB Connected.
+-[14.09.20 13:50:50:910] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:50:50:911] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:50:50:911] - [INFO] - DB Disconected
+-[14.09.20 13:50:50:919] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:50:50:919] - [INFO] - DB Connected.
+-[14.09.20 13:51:09:421] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:51:09:421] - [INFO] - DB Connected.
+-[14.09.20 13:51:09:422] - [INFO] - DB Disconected
+-[14.09.20 13:51:13:716] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:51:13:717] - [INFO] - DB Connected.
+-[14.09.20 13:51:19:704] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:51:19:705] - [INFO] - DB Connected.
+-[14.09.20 13:51:19:705] - [INFO] - DB Disconected
+-[14.09.20 13:51:37:927] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:51:37:928] - [INFO] - DB Connected.
+-[14.09.20 13:51:37:928] - [INFO] - DB Disconected
+-[14.09.20 13:52:04:259] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:04:259] - [INFO] - DB Connected.
+-[14.09.20 13:52:04:259] - [INFO] - DB Disconected
+-[14.09.20 13:52:05:601] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:05:601] - [INFO] - DB Connected.
+-[14.09.20 13:52:05:602] - [INFO] - DB Disconected
+-[14.09.20 13:52:06:192] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:06:192] - [INFO] - DB Connected.
+-[14.09.20 13:52:06:193] - [INFO] - DB Disconected
+-[14.09.20 13:52:06:471] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:06:472] - [INFO] - DB Connected.
+-[14.09.20 13:52:06:472] - [INFO] - DB Disconected
+-[14.09.20 13:52:06:645] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:06:646] - [INFO] - DB Connected.
+-[14.09.20 13:52:06:646] - [INFO] - DB Disconected
+-[14.09.20 13:52:11:190] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:11:190] - [INFO] - DB Connected.
+-[14.09.20 13:52:20:636] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:52:20:637] - [INFO] - DB Connected.
+-[14.09.20 13:52:20:637] - [INFO] - DB Disconected
+-[14.09.20 13:53:09:332] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:53:09:332] - [INFO] - DB Connected.
+-[14.09.20 13:53:09:333] - [INFO] - DB Disconected
+-[14.09.20 13:53:19:912] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:53:19:913] - [INFO] - DB Connected.
+-[14.09.20 13:53:19:913] - [INFO] - DB Disconected
+-[14.09.20 13:53:20:514] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:53:20:514] - [INFO] - DB Connected.
+-[14.09.20 13:53:20:515] - [INFO] - DB Disconected
+-[14.09.20 13:53:20:759] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:53:20:759] - [INFO] - DB Connected.
+-[14.09.20 13:53:20:760] - [INFO] - DB Disconected
+-[14.09.20 13:53:21:136] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:53:21:136] - [INFO] - DB Connected.
+-[14.09.20 13:53:21:136] - [INFO] - DB Disconected
+-[14.09.20 13:53:51:193] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:53:51:193] - [INFO] - DB Connected.
+-[14.09.20 13:53:51:193] - [INFO] - DB Disconected
+-[14.09.20 13:54:01:040] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:54:01:041] - [INFO] - DB Connected.
+-[14.09.20 13:54:01:041] - [INFO] - DB Disconected
+-[14.09.20 13:54:31:340] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:54:31:340] - [INFO] - DB Connected.
+-[14.09.20 13:54:31:340] - [INFO] - DB Disconected
+-[14.09.20 13:55:11:908] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:55:11:909] - [INFO] - DB Connected.
+-[14.09.20 13:55:11:909] - [INFO] - DB Disconected
+-[14.09.20 13:55:16:397] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:55:16:397] - [INFO] - DB Connected.
+-[14.09.20 13:55:16:397] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 13:55:16:398] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 13:55:16:398] - [INFO] - DB Disconected
+-[14.09.20 13:55:16:408] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 13:55:16:409] - [INFO] - DB Connected.
+-[14.09.20 13:55:16:409] - [INFO] - DB Disconected
+-[14.09.20 14:16:54:239] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:16:54:239] - [INFO] - DB Connected.
+-[14.09.20 14:16:54:239] - [INFO] - DB Disconected
+-[14.09.20 14:16:56:665] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:16:56:666] - [INFO] - DB Connected.
+-[14.09.20 14:16:56:666] - [INFO] - DB Disconected
+-[14.09.20 14:19:43:455] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:43:456] - [INFO] - DB Connected.
+-[14.09.20 14:19:43:456] - [INFO] - DB Disconected
+-[14.09.20 14:19:46:310] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:46:311] - [INFO] - DB Connected.
+-[14.09.20 14:19:46:311] - [INFO] - DB Disconected
+-[14.09.20 14:19:48:262] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:48:264] - [INFO] - DB Connected.
+-[14.09.20 14:19:48:265] - [INFO] - DB Disconected
+-[14.09.20 14:19:48:707] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:48:708] - [INFO] - DB Connected.
+-[14.09.20 14:19:48:708] - [INFO] - DB Disconected
+-[14.09.20 14:19:48:943] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:48:943] - [INFO] - DB Connected.
+-[14.09.20 14:19:48:943] - [INFO] - DB Disconected
+-[14.09.20 14:19:49:143] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:49:143] - [INFO] - DB Connected.
+-[14.09.20 14:19:49:143] - [INFO] - DB Disconected
+-[14.09.20 14:19:49:342] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:49:342] - [INFO] - DB Connected.
+-[14.09.20 14:19:49:343] - [INFO] - DB Disconected
+-[14.09.20 14:19:49:521] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:49:521] - [INFO] - DB Connected.
+-[14.09.20 14:19:49:522] - [INFO] - DB Disconected
+-[14.09.20 14:19:49:712] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:49:713] - [INFO] - DB Connected.
+-[14.09.20 14:19:49:713] - [INFO] - DB Disconected
+-[14.09.20 14:19:49:915] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:49:916] - [INFO] - DB Connected.
+-[14.09.20 14:19:49:916] - [INFO] - DB Disconected
+-[14.09.20 14:19:53:563] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 14:19:53:564] - [INFO] - DB Connected.
+-[14.09.20 14:19:53:564] - [INFO] - DB Disconected
+-[14.09.20 15:31:07:677] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 15:31:07:677] - [INFO] - DB Connected.
+-[14.09.20 15:31:07:677] - [INFO] - DB Disconected
+-[14.09.20 15:31:08:361] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 15:31:08:361] - [INFO] - DB Connected.
+-[14.09.20 15:43:13:911] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 15:43:13:912] - [INFO] - DB Connected.
+-[14.09.20 15:43:24:705] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 15:43:24:706] - [INFO] - DB Connected.
+-[14.09.20 16:39:35:150] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:39:35:150] - [INFO] - DB Connected.
+-[14.09.20 16:39:42:918] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:39:42:919] - [INFO] - DB Connected.
+-[14.09.20 16:39:48:696] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:39:48:697] - [INFO] - DB Connected.
+-[14.09.20 16:39:48:698] - [INFO] - DB Disconected
+-[14.09.20 16:39:56:885] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:39:56:887] - [INFO] - DB Connected.
+-[14.09.20 16:39:56:887] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[14.09.20 16:39:56:888] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[14.09.20 16:39:56:889] - [INFO] - DB Disconected
+-[14.09.20 16:39:56:897] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:39:56:897] - [INFO] - DB Connected.
+-[14.09.20 16:39:56:897] - [INFO] - DB Disconected
+-[14.09.20 16:44:03:486] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:03:486] - [INFO] - DB Connected.
+-[14.09.20 16:44:03:486] - [INFO] - DB Disconected
+-[14.09.20 16:44:04:589] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:04:590] - [INFO] - DB Connected.
+-[14.09.20 16:44:04:590] - [INFO] - DB Disconected
+-[14.09.20 16:44:05:267] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:05:267] - [INFO] - DB Connected.
+-[14.09.20 16:44:05:268] - [INFO] - DB Disconected
+-[14.09.20 16:44:05:868] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:05:868] - [INFO] - DB Connected.
+-[14.09.20 16:44:05:868] - [INFO] - DB Disconected
+-[14.09.20 16:44:06:074] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:06:075] - [INFO] - DB Connected.
+-[14.09.20 16:44:06:075] - [INFO] - DB Disconected
+-[14.09.20 16:44:06:288] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:06:288] - [INFO] - DB Connected.
+-[14.09.20 16:44:06:289] - [INFO] - DB Disconected
+-[14.09.20 16:44:07:404] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:07:406] - [INFO] - DB Connected.
+-[14.09.20 16:44:07:407] - [INFO] - DB Disconected
+-[14.09.20 16:44:07:598] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:07:599] - [INFO] - DB Connected.
+-[14.09.20 16:44:07:599] - [INFO] - DB Disconected
+-[14.09.20 16:44:07:793] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:07:793] - [INFO] - DB Connected.
+-[14.09.20 16:44:07:793] - [INFO] - DB Disconected
+-[14.09.20 16:44:07:975] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:07:976] - [INFO] - DB Connected.
+-[14.09.20 16:44:07:976] - [INFO] - DB Disconected
+-[14.09.20 16:44:08:153] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:08:153] - [INFO] - DB Connected.
+-[14.09.20 16:44:08:154] - [INFO] - DB Disconected
+-[14.09.20 16:44:08:363] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 16:44:08:364] - [INFO] - DB Connected.
+-[14.09.20 16:44:08:364] - [INFO] - DB Disconected
+-[14.09.20 17:02:11:186] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:02:11:187] - [INFO] - DB Connected.
+-[14.09.20 17:02:11:187] - [INFO] - DB Disconected
+-[14.09.20 17:02:25:392] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:02:25:393] - [INFO] - DB Connected.
+-[14.09.20 17:02:25:393] - [INFO] - DB Disconected
+-[14.09.20 17:02:36:405] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:02:36:405] - [INFO] - DB Connected.
+-[14.09.20 17:02:36:405] - [INFO] - DB Disconected
+-[14.09.20 17:04:04:011] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:04:04:011] - [INFO] - DB Connected.
+-[14.09.20 17:04:04:011] - [INFO] - DB Disconected
+-[14.09.20 17:09:11:961] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:11:962] - [INFO] - DB Connected.
+-[14.09.20 17:09:11:962] - [INFO] - DB Disconected
+-[14.09.20 17:09:13:600] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:13:601] - [INFO] - DB Connected.
+-[14.09.20 17:09:13:602] - [INFO] - DB Disconected
+-[14.09.20 17:09:14:578] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:14:579] - [INFO] - DB Connected.
+-[14.09.20 17:09:14:579] - [INFO] - DB Disconected
+-[14.09.20 17:09:36:529] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:36:529] - [INFO] - DB Connected.
+-[14.09.20 17:09:36:530] - [INFO] - DB Disconected
+-[14.09.20 17:09:37:809] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:37:810] - [INFO] - DB Connected.
+-[14.09.20 17:09:37:810] - [INFO] - DB Disconected
+-[14.09.20 17:09:38:645] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:38:646] - [INFO] - DB Connected.
+-[14.09.20 17:09:38:646] - [INFO] - DB Disconected
+-[14.09.20 17:09:40:464] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:40:465] - [INFO] - DB Connected.
+-[14.09.20 17:09:40:465] - [INFO] - DB Disconected
+-[14.09.20 17:09:41:691] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:41:692] - [INFO] - DB Connected.
+-[14.09.20 17:09:41:693] - [INFO] - DB Disconected
+-[14.09.20 17:09:56:703] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:56:704] - [INFO] - DB Connected.
+-[14.09.20 17:09:56:704] - [INFO] - DB Disconected
+-[14.09.20 17:09:58:108] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:58:109] - [INFO] - DB Connected.
+-[14.09.20 17:09:58:109] - [INFO] - DB Disconected
+-[14.09.20 17:09:58:943] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:58:943] - [INFO] - DB Connected.
+-[14.09.20 17:09:58:944] - [INFO] - DB Disconected
+-[14.09.20 17:09:59:478] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:59:479] - [INFO] - DB Connected.
+-[14.09.20 17:09:59:480] - [INFO] - DB Disconected
+-[14.09.20 17:09:59:624] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:59:625] - [INFO] - DB Connected.
+-[14.09.20 17:09:59:625] - [INFO] - DB Disconected
+-[14.09.20 17:09:59:770] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:59:770] - [INFO] - DB Connected.
+-[14.09.20 17:09:59:771] - [INFO] - DB Disconected
+-[14.09.20 17:09:59:921] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:09:59:922] - [INFO] - DB Connected.
+-[14.09.20 17:09:59:922] - [INFO] - DB Disconected
+-[14.09.20 17:10:00:106] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:00:106] - [INFO] - DB Connected.
+-[14.09.20 17:10:00:106] - [INFO] - DB Disconected
+-[14.09.20 17:10:00:580] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:00:581] - [INFO] - DB Connected.
+-[14.09.20 17:10:00:581] - [INFO] - DB Disconected
+-[14.09.20 17:10:00:735] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:00:735] - [INFO] - DB Connected.
+-[14.09.20 17:10:00:736] - [INFO] - DB Disconected
+-[14.09.20 17:10:07:318] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:07:319] - [INFO] - DB Connected.
+-[14.09.20 17:10:07:319] - [INFO] - DB Disconected
+-[14.09.20 17:10:08:168] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:08:169] - [INFO] - DB Connected.
+-[14.09.20 17:10:08:169] - [INFO] - DB Disconected
+-[14.09.20 17:10:08:806] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:08:806] - [INFO] - DB Connected.
+-[14.09.20 17:10:08:807] - [INFO] - DB Disconected
+-[14.09.20 17:10:09:013] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:09:014] - [INFO] - DB Connected.
+-[14.09.20 17:10:09:014] - [INFO] - DB Disconected
+-[14.09.20 17:10:13:675] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:13:675] - [INFO] - DB Connected.
+-[14.09.20 17:10:13:675] - [INFO] - DB Disconected
+-[14.09.20 17:10:18:674] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:18:674] - [INFO] - DB Connected.
+-[14.09.20 17:10:18:674] - [INFO] - DB Disconected
+-[14.09.20 17:10:19:935] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:19:935] - [INFO] - DB Connected.
+-[14.09.20 17:10:19:935] - [INFO] - DB Disconected
+-[14.09.20 17:10:21:093] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:21:094] - [INFO] - DB Connected.
+-[14.09.20 17:10:21:094] - [INFO] - DB Disconected
+-[14.09.20 17:10:30:108] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:10:30:108] - [INFO] - DB Connected.
+-[14.09.20 17:10:30:108] - [INFO] - DB Disconected
+-[14.09.20 17:18:42:847] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:18:42:847] - [INFO] - DB Connected.
+-[14.09.20 17:18:42:847] - [INFO] - DB Disconected
+-[14.09.20 17:18:53:559] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:18:53:559] - [INFO] - DB Connected.
+-[14.09.20 17:18:53:559] - [INFO] - DB Disconected
+-[14.09.20 17:18:54:547] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:18:54:548] - [INFO] - DB Connected.
+-[14.09.20 17:18:54:548] - [INFO] - DB Disconected
+-[14.09.20 17:24:46:010] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:24:46:011] - [INFO] - DB Connected.
+-[14.09.20 17:24:46:011] - [INFO] - DB Disconected
+-[14.09.20 17:25:07:387] - [WARNING] - DataBase: Empty password is bad idea.
+-[14.09.20 17:25:07:388] - [INFO] - DB Connected.
+-[14.09.20 17:25:07:388] - [INFO] - DB Disconected
+-[15.09.20 10:30:35:081] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:30:35:082] - [INFO] - DB Connected.
+-[15.09.20 10:30:35:082] - [INFO] - DB Disconected
+-[15.09.20 10:30:36:379] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:30:36:379] - [INFO] - DB Connected.
+-[15.09.20 10:30:36:379] - [INFO] - DB Disconected
+-[15.09.20 10:30:49:379] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:30:49:380] - [INFO] - DB Connected.
+-[15.09.20 10:30:49:380] - [INFO] - DB Disconected
+-[15.09.20 10:30:55:669] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:30:55:669] - [INFO] - DB Connected.
+-[15.09.20 10:31:02:407] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:31:02:407] - [INFO] - DB Connected.
+-[15.09.20 10:31:02:408] - [INFO] - DB Disconected
+-[15.09.20 10:31:47:027] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:31:47:027] - [INFO] - DB Connected.
+-[15.09.20 10:31:47:027] - [INFO] - DB Disconected
+-[15.09.20 10:32:27:739] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:32:27:739] - [INFO] - DB Connected.
+-[15.09.20 10:32:27:739] - [INFO] - DB Disconected
+-[15.09.20 10:36:21:487] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:36:21:487] - [INFO] - DB Connected.
+-[15.09.20 10:36:21:488] - [INFO] - DB Disconected
+-[15.09.20 10:36:50:556] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:36:50:557] - [INFO] - DB Connected.
+-[15.09.20 10:36:50:557] - [INFO] - DB Disconected
+-[15.09.20 10:36:52:314] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:36:52:315] - [INFO] - DB Connected.
+-[15.09.20 10:36:52:315] - [INFO] - DB Disconected
+-[15.09.20 10:43:26:747] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:43:26:747] - [INFO] - DB Connected.
+-[15.09.20 10:43:26:747] - [INFO] - DB Disconected
+-[15.09.20 10:49:17:682] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:17:682] - [INFO] - DB Connected.
+-[15.09.20 10:49:17:682] - [INFO] - DB Disconected
+-[15.09.20 10:49:18:759] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:18:760] - [INFO] - DB Connected.
+-[15.09.20 10:49:18:760] - [INFO] - DB Disconected
+-[15.09.20 10:49:19:630] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:19:630] - [INFO] - DB Connected.
+-[15.09.20 10:49:19:630] - [INFO] - DB Disconected
+-[15.09.20 10:49:20:235] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:20:235] - [INFO] - DB Connected.
+-[15.09.20 10:49:20:236] - [INFO] - DB Disconected
+-[15.09.20 10:49:20:799] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:20:801] - [INFO] - DB Connected.
+-[15.09.20 10:49:20:802] - [INFO] - DB Disconected
+-[15.09.20 10:49:21:305] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:21:305] - [INFO] - DB Connected.
+-[15.09.20 10:49:21:306] - [INFO] - DB Disconected
+-[15.09.20 10:49:21:762] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:49:21:763] - [INFO] - DB Connected.
+-[15.09.20 10:49:21:763] - [INFO] - DB Disconected
+-[15.09.20 10:54:00:454] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:54:00:454] - [INFO] - DB Connected.
+-[15.09.20 10:54:00:454] - [INFO] - DB Disconected
+-[15.09.20 10:54:01:582] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 10:54:01:582] - [INFO] - DB Connected.
+-[15.09.20 10:54:01:583] - [INFO] - DB Disconected
+-[15.09.20 11:18:36:969] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:18:36:969] - [INFO] - DB Connected.
+-[15.09.20 11:18:36:969] - [INFO] - DB Disconected
+-[15.09.20 11:21:41:300] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:21:41:300] - [INFO] - DB Connected.
+-[15.09.20 11:21:41:301] - [INFO] - DB Disconected
+-[15.09.20 11:21:47:032] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:21:47:032] - [INFO] - DB Connected.
+-[15.09.20 11:21:47:033] - [INFO] - DB Disconected
+-[15.09.20 11:21:47:962] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:21:47:963] - [INFO] - DB Connected.
+-[15.09.20 11:21:47:963] - [INFO] - DB Disconected
+-[15.09.20 11:22:11:193] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:11:193] - [INFO] - DB Connected.
+-[15.09.20 11:22:11:193] - [INFO] - DB Disconected
+-[15.09.20 11:22:11:380] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:11:380] - [INFO] - DB Connected.
+-[15.09.20 11:22:11:380] - [INFO] - DB Disconected
+-[15.09.20 11:22:11:865] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:11:865] - [INFO] - DB Connected.
+-[15.09.20 11:22:11:865] - [INFO] - DB Disconected
+-[15.09.20 11:22:12:089] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:12:090] - [INFO] - DB Connected.
+-[15.09.20 11:22:12:091] - [INFO] - DB Disconected
+-[15.09.20 11:22:12:282] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:12:283] - [INFO] - DB Connected.
+-[15.09.20 11:22:12:283] - [INFO] - DB Disconected
+-[15.09.20 11:22:12:490] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:12:491] - [INFO] - DB Connected.
+-[15.09.20 11:22:12:491] - [INFO] - DB Disconected
+-[15.09.20 11:22:12:694] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:12:695] - [INFO] - DB Connected.
+-[15.09.20 11:22:12:695] - [INFO] - DB Disconected
+-[15.09.20 11:22:12:904] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:12:905] - [INFO] - DB Connected.
+-[15.09.20 11:22:12:905] - [INFO] - DB Disconected
+-[15.09.20 11:22:27:295] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:22:27:295] - [INFO] - DB Connected.
+-[15.09.20 11:22:27:295] - [INFO] - DB Disconected
+-[15.09.20 11:23:06:340] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:23:06:341] - [INFO] - DB Connected.
+-[15.09.20 11:23:06:341] - [INFO] - DB Disconected
+-[15.09.20 11:23:15:140] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:23:15:141] - [INFO] - DB Connected.
+-[15.09.20 11:23:15:141] - [INFO] - DB Disconected
+-[15.09.20 11:23:23:379] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:23:23:380] - [INFO] - DB Connected.
+-[15.09.20 11:23:23:380] - [INFO] - DB Disconected
+-[15.09.20 11:23:25:217] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:23:25:218] - [INFO] - DB Connected.
+-[15.09.20 11:23:25:218] - [INFO] - DB Disconected
+-[15.09.20 11:23:26:202] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:23:26:203] - [INFO] - DB Connected.
+-[15.09.20 11:23:26:203] - [INFO] - DB Disconected
+-[15.09.20 11:25:26:187] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:25:26:187] - [INFO] - DB Connected.
+-[15.09.20 11:25:26:188] - [INFO] - DB Disconected
+-[15.09.20 11:30:53:232] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:30:53:232] - [INFO] - DB Connected.
+-[15.09.20 11:30:53:232] - [INFO] - DB Disconected
+-[15.09.20 11:30:56:700] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:30:56:701] - [INFO] - DB Connected.
+-[15.09.20 11:30:56:701] - [INFO] - DB Disconected
+-[15.09.20 11:30:58:202] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:30:58:203] - [INFO] - DB Connected.
+-[15.09.20 11:30:58:203] - [INFO] - DB Disconected
+-[15.09.20 11:31:59:143] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:31:59:143] - [INFO] - DB Connected.
+-[15.09.20 11:31:59:143] - [INFO] - DB Disconected
+-[15.09.20 11:32:02:248] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 11:32:02:249] - [INFO] - DB Connected.
+-[15.09.20 11:32:02:249] - [INFO] - DB Disconected
+-[15.09.20 12:08:41:416] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:08:41:416] - [INFO] - DB Connected.
+-[15.09.20 12:08:41:416] - [INFO] - DB Disconected
+-[15.09.20 12:08:41:426] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:08:41:426] - [INFO] - DB Connected.
+-[15.09.20 12:08:41:427] - [INFO] - DB Disconected
+-[15.09.20 12:08:46:919] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:08:46:920] - [INFO] - DB Connected.
+-[15.09.20 12:08:46:920] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[15.09.20 12:08:46:921] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[15.09.20 12:08:46:921] - [INFO] - DB Disconected
+-[15.09.20 12:08:46:930] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:08:46:932] - [INFO] - DB Connected.
+-[15.09.20 12:08:46:932] - [INFO] - DB Disconected
+-[15.09.20 12:08:52:052] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:08:52:053] - [INFO] - DB Connected.
+-[15.09.20 12:08:52:053] - [INFO] - DB Disconected
+-[15.09.20 12:08:52:062] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:08:52:063] - [INFO] - DB Connected.
+-[15.09.20 12:08:52:063] - [INFO] - DB Disconected
+-[15.09.20 12:09:25:624] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:09:25:625] - [INFO] - DB Connected.
+-[15.09.20 12:09:25:625] - [INFO] - DB Disconected
+-[15.09.20 12:11:22:626] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:11:22:626] - [INFO] - DB Connected.
+-[15.09.20 12:11:22:626] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = '3994b0f776913f8934f0a5c633371b2f'"
+-[15.09.20 12:11:22:627] - [DEBUG] - 
+-[15.09.20 12:11:22:627] - [INFO] - DB Disconected
+-[15.09.20 12:13:51:243] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:13:51:243] - [INFO] - DB Connected.
+-[15.09.20 12:13:51:244] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = '3994b0f776913f8934f0a5c633371b2f'"
+-[15.09.20 12:13:51:244] - [DEBUG] - 
+-[15.09.20 12:13:51:244] - [INFO] - DB Disconected
+-[15.09.20 12:13:52:737] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:13:52:738] - [INFO] - DB Connected.
+-[15.09.20 12:13:52:738] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = '3994b0f776913f8934f0a5c633371b2f'"
+-[15.09.20 12:13:52:738] - [DEBUG] - 
+-[15.09.20 12:13:52:738] - [INFO] - DB Disconected
+-[15.09.20 12:13:56:667] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:13:56:668] - [INFO] - DB Connected.
+-[15.09.20 12:13:56:668] - [INFO] - DB Disconected
+-[15.09.20 12:24:28:055] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:24:28:055] - [INFO] - DB Connected.
+-[15.09.20 12:24:28:055] - [INFO] - DB Disconected
+-[15.09.20 12:24:32:986] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:24:32:986] - [INFO] - DB Connected.
+-[15.09.20 12:24:32:986] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = '511e33b4b0fe4bf75aa3bbac63311e5a'"
+-[15.09.20 12:24:32:987] - [DEBUG] - 
+-[15.09.20 12:24:32:987] - [INFO] - DB Disconected
+-[15.09.20 12:24:36:511] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:24:36:511] - [INFO] - DB Connected.
+-[15.09.20 12:24:36:512] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[15.09.20 12:24:36:512] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[15.09.20 12:24:36:512] - [INFO] - DB Disconected
+-[15.09.20 12:24:36:525] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:24:36:525] - [INFO] - DB Connected.
+-[15.09.20 12:24:36:525] - [INFO] - DB Disconected
+-[15.09.20 12:25:59:373] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:25:59:374] - [INFO] - DB Connected.
+-[15.09.20 12:25:59:374] - [INFO] - DB Disconected
+-[15.09.20 12:26:00:670] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:26:00:670] - [INFO] - DB Connected.
+-[15.09.20 12:26:00:670] - [INFO] - DB Disconected
+-[15.09.20 12:26:00:678] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:26:00:679] - [INFO] - DB Connected.
+-[15.09.20 12:26:00:679] - [INFO] - DB Disconected
+-[15.09.20 12:26:04:027] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:26:04:027] - [INFO] - DB Connected.
+-[15.09.20 12:26:04:027] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[15.09.20 12:26:04:028] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[15.09.20 12:26:04:028] - [INFO] - DB Disconected
+-[15.09.20 12:26:04:039] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:26:04:039] - [INFO] - DB Connected.
+-[15.09.20 12:26:04:040] - [INFO] - DB Disconected
+-[15.09.20 12:26:12:156] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:26:12:156] - [INFO] - DB Connected.
+-[15.09.20 12:26:12:156] - [INFO] - DB Disconected
+-[15.09.20 12:35:15:731] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:35:15:732] - [INFO] - DB Connected.
+-[15.09.20 12:35:15:732] - [INFO] - DB Disconected
+-[15.09.20 12:35:15:741] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:35:15:742] - [INFO] - DB Connected.
+-[15.09.20 12:35:15:742] - [INFO] - DB Disconected
+-[15.09.20 12:35:16:724] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 12:35:16:725] - [INFO] - DB Connected.
+-[15.09.20 14:37:13:141] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:37:13:141] - [INFO] - DB Connected.
+-[15.09.20 14:37:24:324] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:37:24:324] - [INFO] - DB Connected.
+-[15.09.20 14:38:07:271] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:07:272] - [INFO] - DB Connected.
+-[15.09.20 14:38:07:273] - [INFO] - DB Disconected
+-[15.09.20 14:38:25:528] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:25:528] - [INFO] - DB Connected.
+-[15.09.20 14:38:25:529] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[15.09.20 14:38:25:529] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[15.09.20 14:38:25:529] - [INFO] - DB Disconected
+-[15.09.20 14:38:25:547] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:25:548] - [INFO] - DB Connected.
+-[15.09.20 14:38:25:548] - [INFO] - DB Disconected
+-[15.09.20 14:38:26:786] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:26:786] - [INFO] - DB Connected.
+-[15.09.20 14:38:26:786] - [INFO] - DB Disconected
+-[15.09.20 14:38:26:795] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:26:796] - [INFO] - DB Connected.
+-[15.09.20 14:38:26:796] - [INFO] - DB Disconected
+-[15.09.20 14:38:33:285] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:33:285] - [INFO] - DB Connected.
+-[15.09.20 14:38:33:286] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '111' AND `password` = '49f0bad299687c62334182178bfd75d8'"
+-[15.09.20 14:38:33:286] - [DEBUG] - 
+-[15.09.20 14:38:33:287] - [INFO] - DB Disconected
+-[15.09.20 14:38:34:527] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:38:34:528] - [INFO] - DB Connected.
+-[15.09.20 14:40:37:234] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:37:235] - [INFO] - DB Connected.
+-[15.09.20 14:40:49:932] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:49:932] - [INFO] - DB Connected.
+-[15.09.20 14:40:49:932] - [INFO] - DB Disconected
+-[15.09.20 14:40:53:300] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:53:300] - [INFO] - DB Connected.
+-[15.09.20 14:40:53:301] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[15.09.20 14:40:53:301] - [DEBUG] - 
+-[15.09.20 14:40:53:301] - [INFO] - DB Disconected
+-[15.09.20 14:40:56:823] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:56:823] - [INFO] - DB Connected.
+-[15.09.20 14:40:56:823] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '1111' AND `password` = 'c4ca4238a0b923820dcc509a6f75849b'"
+-[15.09.20 14:40:56:824] - [DEBUG] - Array
+(
+    [id] => 47
+    [username] => 1111
+    [email] => 1@1.1
+    [password] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+-[15.09.20 14:40:56:824] - [INFO] - DB Disconected
+-[15.09.20 14:40:56:835] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:56:836] - [INFO] - DB Connected.
+-[15.09.20 14:40:56:836] - [INFO] - DB Disconected
+-[15.09.20 14:40:58:178] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:58:179] - [INFO] - DB Connected.
+-[15.09.20 14:40:58:179] - [INFO] - DB Disconected
+-[15.09.20 14:40:58:187] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:40:58:188] - [INFO] - DB Connected.
+-[15.09.20 14:40:58:188] - [INFO] - DB Disconected
+-[15.09.20 14:41:55:108] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:41:55:109] - [INFO] - DB Connected.
+-[15.09.20 14:42:47:134] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:42:47:134] - [INFO] - DB Connected.
+-[15.09.20 14:42:48:349] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:42:48:349] - [INFO] - DB Connected.
+-[15.09.20 14:43:08:570] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:43:08:570] - [INFO] - DB Connected.
+-[15.09.20 14:43:15:050] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:43:15:050] - [INFO] - DB Connected.
+-[15.09.20 14:43:15:050] - [INFO] - DB Disconected
+-[15.09.20 14:44:45:577] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:44:45:578] - [INFO] - DB Connected.
+-[15.09.20 14:44:45:578] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('dslafkla;', 'kasjd@com.ua', 'c4ca4238a0b923820dcc509a6f75849b')"
+-[15.09.20 14:44:45:648] - [INFO] - DB Disconected
+-[15.09.20 14:44:45:657] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:44:45:658] - [INFO] - DB Connected.
+-[15.09.20 14:44:45:658] - [INFO] - DB Disconected
+-[15.09.20 14:45:13:310] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:45:13:310] - [INFO] - DB Connected.
+-[15.09.20 14:45:13:310] - [INFO] - DB Disconected
+-[15.09.20 14:45:13:320] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:45:13:321] - [INFO] - DB Connected.
+-[15.09.20 14:45:13:322] - [INFO] - DB Disconected
+-[15.09.20 14:45:14:647] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:45:14:648] - [INFO] - DB Connected.
+-[15.09.20 14:45:20:985] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:45:20:986] - [INFO] - DB Connected.
+-[15.09.20 14:45:20:987] - [INFO] - DB Disconected
+-[15.09.20 14:45:59:460] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:45:59:461] - [INFO] - DB Connected.
+-[15.09.20 14:45:59:461] - [INFO] - DB Disconected
+-[15.09.20 14:46:00:353] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:46:00:354] - [INFO] - DB Connected.
+-[15.09.20 14:46:06:566] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:46:06:567] - [INFO] - DB Connected.
+-[15.09.20 14:46:06:568] - [INFO] - DB Disconected
+-[15.09.20 14:47:23:569] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:47:23:570] - [INFO] - DB Connected.
+-[15.09.20 14:47:23:570] - [INFO] - DB Disconected
+-[15.09.20 14:47:37:883] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:47:37:884] - [INFO] - DB Connected.
+-[15.09.20 14:47:37:884] - [INFO] - DB Disconected
+-[15.09.20 14:47:45:811] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:47:45:812] - [INFO] - DB Connected.
+-[15.09.20 14:47:45:812] - [INFO] - DB Disconected
+-[15.09.20 14:48:05:257] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:48:05:258] - [INFO] - DB Connected.
+-[15.09.20 14:48:05:258] - [INFO] - DB Disconected
+-[15.09.20 14:48:18:099] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:48:18:100] - [INFO] - DB Connected.
+-[15.09.20 14:48:18:100] - [INFO] - DB Disconected
+-[15.09.20 14:50:27:741] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:50:27:742] - [INFO] - DB Connected.
+-[15.09.20 14:50:27:742] - [INFO] - DB Disconected
+-[15.09.20 14:50:39:799] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:50:39:799] - [INFO] - DB Connected.
+-[15.09.20 14:50:39:799] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('12', '12@gmail.com', 'c4ca4238a0b923820dcc509a6f75849b')"
+-[15.09.20 14:50:39:833] - [INFO] - DB Disconected
+-[15.09.20 14:52:38:247] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:38:247] - [INFO] - DB Connected.
+-[15.09.20 14:52:38:248] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('12', '12@gmail.com', 'c4ca4238a0b923820dcc509a6f75849b')"
+-[15.09.20 14:52:38:277] - [INFO] - DB Disconected
+-[15.09.20 14:52:47:956] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:47:956] - [INFO] - DB Connected.
+-[15.09.20 14:52:47:956] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('qwe', 'qqwe@gmail.com', '76d80224611fc919a5d54f0ff9fba446')"
+-[15.09.20 14:52:47:974] - [INFO] - DB Disconected
+-[15.09.20 14:52:47:984] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:47:985] - [INFO] - DB Connected.
+-[15.09.20 14:52:47:985] - [INFO] - DB Disconected
+-[15.09.20 14:52:49:378] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:49:379] - [INFO] - DB Connected.
+-[15.09.20 14:52:49:379] - [INFO] - DB Disconected
+-[15.09.20 14:52:49:387] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:49:388] - [INFO] - DB Connected.
+-[15.09.20 14:52:49:388] - [INFO] - DB Disconected
+-[15.09.20 14:52:50:814] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:50:815] - [INFO] - DB Connected.
+-[15.09.20 14:52:52:229] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:52:229] - [INFO] - DB Connected.
+-[15.09.20 14:52:52:229] - [INFO] - DB Disconected
+-[15.09.20 14:52:56:965] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:52:56:966] - [INFO] - DB Connected.
+-[15.09.20 14:52:56:966] - [INFO] - DB Disconected
+-[15.09.20 14:53:46:950] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:53:46:950] - [INFO] - DB Connected.
+-[15.09.20 14:53:46:951] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('grere', 'rtert@il.ua', 'c4ca4238a0b923820dcc509a6f75849b')"
+-[15.09.20 14:53:46:957] - [INFO] - DB Disconected
+-[15.09.20 14:53:46:968] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:53:46:969] - [INFO] - DB Connected.
+-[15.09.20 14:53:46:969] - [INFO] - DB Disconected
+-[15.09.20 14:53:50:204] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:53:50:204] - [INFO] - DB Connected.
+-[15.09.20 14:53:50:204] - [INFO] - DB Disconected
+-[15.09.20 14:53:50:212] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:53:50:212] - [INFO] - DB Connected.
+-[15.09.20 14:53:50:213] - [INFO] - DB Disconected
+-[15.09.20 14:53:53:504] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:53:53:505] - [INFO] - DB Connected.
+-[15.09.20 14:54:05:646] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:54:05:647] - [INFO] - DB Connected.
+-[15.09.20 14:54:05:647] - [INFO] - DB Disconected
+-[15.09.20 14:54:13:283] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 14:54:13:284] - [INFO] - DB Connected.
+-[15.09.20 15:04:13:189] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:13:190] - [INFO] - DB Connected.
+-[15.09.20 15:04:13:989] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:13:990] - [INFO] - DB Connected.
+-[15.09.20 15:04:14:340] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:14:341] - [INFO] - DB Connected.
+-[15.09.20 15:04:14:554] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:14:554] - [INFO] - DB Connected.
+-[15.09.20 15:04:16:666] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:16:667] - [INFO] - DB Connected.
+-[15.09.20 15:04:19:392] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:19:393] - [INFO] - DB Connected.
+-[15.09.20 15:04:19:393] - [INFO] - DB Disconected
+-[15.09.20 15:04:20:611] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:20:612] - [INFO] - DB Connected.
+-[15.09.20 15:04:25:065] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:25:065] - [INFO] - DB Connected.
+-[15.09.20 15:04:25:065] - [INFO] - DB Disconected
+-[15.09.20 15:04:25:879] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:25:879] - [INFO] - DB Connected.
+-[15.09.20 15:04:26:537] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:26:538] - [INFO] - DB Connected.
+-[15.09.20 15:04:26:538] - [INFO] - DB Disconected
+-[15.09.20 15:04:28:988] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:28:989] - [INFO] - DB Connected.
+-[15.09.20 15:04:28:989] - [INFO] - DB Disconected
+-[15.09.20 15:04:30:735] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:30:735] - [INFO] - DB Connected.
+-[15.09.20 15:04:33:226] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:33:227] - [INFO] - DB Connected.
+-[15.09.20 15:04:33:227] - [INFO] - DB Disconected
+-[15.09.20 15:04:40:360] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:40:361] - [INFO] - DB Connected.
+-[15.09.20 15:04:41:573] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:41:574] - [INFO] - DB Connected.
+-[15.09.20 15:04:41:574] - [INFO] - DB Disconected
+-[15.09.20 15:04:51:858] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:51:859] - [INFO] - DB Connected.
+-[15.09.20 15:04:51:860] - [INFO] - DB Disconected
+-[15.09.20 15:04:52:708] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:52:709] - [INFO] - DB Connected.
+-[15.09.20 15:04:52:709] - [INFO] - DB Disconected
+-[15.09.20 15:04:54:269] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:04:54:270] - [INFO] - DB Connected.
+-[15.09.20 15:04:54:270] - [INFO] - DB Disconected
+-[15.09.20 15:12:24:890] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:12:24:890] - [INFO] - DB Connected.
+-[15.09.20 15:12:24:890] - [INFO] - DB Disconected
+-[15.09.20 15:12:27:399] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:12:27:400] - [INFO] - DB Connected.
+-[15.09.20 15:12:27:400] - [INFO] - DB Disconected
+-[15.09.20 15:12:42:150] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:12:42:151] - [INFO] - DB Connected.
+-[15.09.20 15:12:42:151] - [INFO] - DB Disconected
+-[15.09.20 15:13:33:769] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:13:33:769] - [INFO] - DB Connected.
+-[15.09.20 15:13:33:769] - [INFO] - DB Disconected
+-[15.09.20 15:13:42:023] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:13:42:024] - [INFO] - DB Connected.
+-[15.09.20 15:13:42:024] - [INFO] - DB Disconected
+-[15.09.20 15:21:44:897] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:21:44:897] - [INFO] - DB Connected.
+-[15.09.20 15:21:44:897] - [INFO] - DB Disconected
+-[15.09.20 15:22:06:064] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:22:06:065] - [INFO] - DB Connected.
+-[15.09.20 15:22:06:065] - [INFO] - DB Disconected
+-[15.09.20 15:22:25:424] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:22:25:424] - [INFO] - DB Connected.
+-[15.09.20 15:22:25:424] - [INFO] - DB Disconected
+-[15.09.20 15:56:02:902] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:56:02:903] - [INFO] - DB Connected.
+-[15.09.20 15:56:02:903] - [INFO] - DB Disconected
+-[15.09.20 15:56:17:770] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:56:17:771] - [INFO] - DB Connected.
+-[15.09.20 15:56:17:771] - [INFO] - DB Disconected
+-[15.09.20 15:56:59:178] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:56:59:179] - [INFO] - DB Connected.
+-[15.09.20 15:56:59:179] - [INFO] - DB Disconected
+-[15.09.20 15:57:04:805] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:04:805] - [INFO] - DB Connected.
+-[15.09.20 15:57:04:805] - [INFO] - DB Disconected
+-[15.09.20 15:57:05:227] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:05:227] - [INFO] - DB Connected.
+-[15.09.20 15:57:05:227] - [INFO] - DB Disconected
+-[15.09.20 15:57:05:484] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:05:484] - [INFO] - DB Connected.
+-[15.09.20 15:57:05:485] - [INFO] - DB Disconected
+-[15.09.20 15:57:05:708] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:05:708] - [INFO] - DB Connected.
+-[15.09.20 15:57:05:709] - [INFO] - DB Disconected
+-[15.09.20 15:57:05:914] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:05:914] - [INFO] - DB Connected.
+-[15.09.20 15:57:05:914] - [INFO] - DB Disconected
+-[15.09.20 15:57:06:596] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:06:596] - [INFO] - DB Connected.
+-[15.09.20 15:57:06:596] - [INFO] - DB Disconected
+-[15.09.20 15:57:45:190] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:57:45:191] - [INFO] - DB Connected.
+-[15.09.20 15:57:45:191] - [INFO] - DB Disconected
+-[15.09.20 15:58:01:366] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:01:367] - [INFO] - DB Connected.
+-[15.09.20 15:58:01:367] - [INFO] - DB Disconected
+-[15.09.20 15:58:02:148] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:02:149] - [INFO] - DB Connected.
+-[15.09.20 15:58:02:149] - [INFO] - DB Disconected
+-[15.09.20 15:58:02:477] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:02:477] - [INFO] - DB Connected.
+-[15.09.20 15:58:02:477] - [INFO] - DB Disconected
+-[15.09.20 15:58:02:685] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:02:686] - [INFO] - DB Connected.
+-[15.09.20 15:58:02:686] - [INFO] - DB Disconected
+-[15.09.20 15:58:02:907] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:02:908] - [INFO] - DB Connected.
+-[15.09.20 15:58:02:908] - [INFO] - DB Disconected
+-[15.09.20 15:58:12:325] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:12:325] - [INFO] - DB Connected.
+-[15.09.20 15:58:12:325] - [INFO] - DB Disconected
+-[15.09.20 15:58:13:089] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:13:090] - [INFO] - DB Connected.
+-[15.09.20 15:58:13:090] - [INFO] - DB Disconected
+-[15.09.20 15:58:16:501] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:16:502] - [INFO] - DB Connected.
+-[15.09.20 15:58:16:502] - [INFO] - DB Disconected
+-[15.09.20 15:58:23:023] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:58:23:024] - [INFO] - DB Connected.
+-[15.09.20 15:58:23:024] - [INFO] - DB Disconected
+-[15.09.20 15:59:31:112] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 15:59:31:112] - [INFO] - DB Connected.
+-[15.09.20 15:59:31:112] - [INFO] - DB Disconected
+-[15.09.20 16:08:01:335] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:08:01:335] - [INFO] - DB Connected.
+-[15.09.20 16:08:01:335] - [INFO] - DB Disconected
+-[15.09.20 16:16:23:305] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:23:306] - [INFO] - DB Connected.
+-[15.09.20 16:16:23:307] - [INFO] - DB Disconected
+-[15.09.20 16:16:27:674] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:27:674] - [INFO] - DB Connected.
+-[15.09.20 16:16:27:674] - [INFO] - DB Disconected
+-[15.09.20 16:16:28:425] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:28:426] - [INFO] - DB Connected.
+-[15.09.20 16:16:28:426] - [INFO] - DB Disconected
+-[15.09.20 16:16:28:680] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:28:680] - [INFO] - DB Connected.
+-[15.09.20 16:16:28:680] - [INFO] - DB Disconected
+-[15.09.20 16:16:28:902] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:28:903] - [INFO] - DB Connected.
+-[15.09.20 16:16:28:903] - [INFO] - DB Disconected
+-[15.09.20 16:16:31:116] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:31:116] - [INFO] - DB Connected.
+-[15.09.20 16:16:31:116] - [INFO] - DB Disconected
+-[15.09.20 16:16:31:567] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:31:567] - [INFO] - DB Connected.
+-[15.09.20 16:16:31:568] - [INFO] - DB Disconected
+-[15.09.20 16:16:31:815] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:31:815] - [INFO] - DB Connected.
+-[15.09.20 16:16:31:815] - [INFO] - DB Disconected
+-[15.09.20 16:16:32:024] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:32:026] - [INFO] - DB Connected.
+-[15.09.20 16:16:32:028] - [INFO] - DB Disconected
+-[15.09.20 16:16:32:253] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:32:254] - [INFO] - DB Connected.
+-[15.09.20 16:16:32:254] - [INFO] - DB Disconected
+-[15.09.20 16:16:32:518] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:32:518] - [INFO] - DB Connected.
+-[15.09.20 16:16:32:519] - [INFO] - DB Disconected
+-[15.09.20 16:16:32:805] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:32:805] - [INFO] - DB Connected.
+-[15.09.20 16:16:32:806] - [INFO] - DB Disconected
+-[15.09.20 16:16:33:078] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:33:078] - [INFO] - DB Connected.
+-[15.09.20 16:16:33:079] - [INFO] - DB Disconected
+-[15.09.20 16:16:39:068] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:39:068] - [INFO] - DB Connected.
+-[15.09.20 16:16:39:069] - [INFO] - DB Disconected
+-[15.09.20 16:16:39:710] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:16:39:710] - [INFO] - DB Connected.
+-[15.09.20 16:16:39:710] - [INFO] - DB Disconected
+-[15.09.20 16:17:10:500] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:17:10:501] - [INFO] - DB Connected.
+-[15.09.20 16:17:11:483] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:17:11:484] - [INFO] - DB Connected.
+-[15.09.20 16:17:11:772] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:17:11:772] - [INFO] - DB Connected.
+-[15.09.20 16:17:12:019] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:17:12:020] - [INFO] - DB Connected.
+-[15.09.20 16:17:15:717] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:17:15:717] - [INFO] - DB Connected.
+-[15.09.20 16:17:24:810] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:17:24:810] - [INFO] - DB Connected.
+-[15.09.20 16:17:24:810] - [INFO] - DB Disconected
+-[15.09.20 16:18:36:835] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:18:36:836] - [INFO] - DB Connected.
+-[15.09.20 16:18:36:837] - [INFO] - DB Disconected
+-[15.09.20 16:18:44:152] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:18:44:152] - [INFO] - DB Connected.
+-[15.09.20 16:18:44:152] - [INFO] - DB Disconected
+-[15.09.20 16:27:40:143] - [WARNING] - DataBase: Empty password is bad idea.
+-[15.09.20 16:27:40:143] - [INFO] - DB Connected.
+-[15.09.20 16:27:40:143] - [INFO] - DB Disconected
+-[16.09.20 09:52:34:767] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:34:768] - [INFO] - DB Connected.
+-[16.09.20 09:52:34:768] - [INFO] - DB Disconected
+-[16.09.20 09:52:35:566] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:35:566] - [INFO] - DB Connected.
+-[16.09.20 09:52:35:567] - [INFO] - DB Disconected
+-[16.09.20 09:52:35:783] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:35:784] - [INFO] - DB Connected.
+-[16.09.20 09:52:35:784] - [INFO] - DB Disconected
+-[16.09.20 09:52:36:06] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:36:06] - [INFO] - DB Connected.
+-[16.09.20 09:52:36:07] - [INFO] - DB Disconected
+-[16.09.20 09:52:36:198] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:36:199] - [INFO] - DB Connected.
+-[16.09.20 09:52:36:199] - [INFO] - DB Disconected
+-[16.09.20 09:52:38:200] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:38:200] - [INFO] - DB Connected.
+-[16.09.20 09:52:38:201] - [INFO] - DB Disconected
+-[16.09.20 09:52:40:532] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:52:40:532] - [INFO] - DB Connected.
+-[16.09.20 09:52:40:533] - [INFO] - DB Disconected
+-[16.09.20 09:53:40:439] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:40:440] - [INFO] - DB Connected.
+-[16.09.20 09:53:40:441] - [INFO] - DB Disconected
+-[16.09.20 09:53:41:185] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:41:185] - [INFO] - DB Connected.
+-[16.09.20 09:53:41:186] - [INFO] - DB Disconected
+-[16.09.20 09:53:41:929] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:41:930] - [INFO] - DB Connected.
+-[16.09.20 09:53:41:930] - [INFO] - DB Disconected
+-[16.09.20 09:53:42:635] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:42:636] - [INFO] - DB Connected.
+-[16.09.20 09:53:42:637] - [INFO] - DB Disconected
+-[16.09.20 09:53:42:949] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:42:949] - [INFO] - DB Connected.
+-[16.09.20 09:53:42:950] - [INFO] - DB Disconected
+-[16.09.20 09:53:43:141] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:43:142] - [INFO] - DB Connected.
+-[16.09.20 09:53:43:142] - [INFO] - DB Disconected
+-[16.09.20 09:53:43:343] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:43:344] - [INFO] - DB Connected.
+-[16.09.20 09:53:43:344] - [INFO] - DB Disconected
+-[16.09.20 09:53:43:533] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:43:534] - [INFO] - DB Connected.
+-[16.09.20 09:53:43:534] - [INFO] - DB Disconected
+-[16.09.20 09:53:43:705] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:43:706] - [INFO] - DB Connected.
+-[16.09.20 09:53:43:706] - [INFO] - DB Disconected
+-[16.09.20 09:53:45:131] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:45:132] - [INFO] - DB Connected.
+-[16.09.20 09:53:45:132] - [INFO] - DB Disconected
+-[16.09.20 09:53:45:805] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:53:45:806] - [INFO] - DB Connected.
+-[16.09.20 09:53:45:806] - [INFO] - DB Disconected
+-[16.09.20 09:54:19:08] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:54:19:09] - [INFO] - DB Connected.
+-[16.09.20 09:54:19:09] - [INFO] - DB Disconected
+-[16.09.20 09:58:38:314] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:58:38:314] - [INFO] - DB Connected.
+-[16.09.20 09:58:38:315] - [INFO] - DB Disconected
+-[16.09.20 09:58:40:119] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:58:40:120] - [INFO] - DB Connected.
+-[16.09.20 09:58:40:120] - [INFO] - DB Disconected
+-[16.09.20 09:58:41:303] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:58:41:304] - [INFO] - DB Connected.
+-[16.09.20 09:58:41:304] - [INFO] - DB Disconected
+-[16.09.20 09:58:42:232] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 09:58:42:233] - [INFO] - DB Connected.
+-[16.09.20 09:58:42:233] - [INFO] - DB Disconected
+-[16.09.20 10:18:40:934] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 10:18:40:935] - [INFO] - DB Connected.
+-[16.09.20 10:18:40:935] - [INFO] - DB Disconected
+-[16.09.20 10:18:48:230] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 10:18:48:230] - [INFO] - DB Connected.
+-[16.09.20 10:18:48:230] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '312' AND `password` = 'e1d5be1c7f2f456670de3d53c7b54f4a'"
+-[16.09.20 10:18:48:231] - [DEBUG] - 
+-[16.09.20 10:18:48:231] - [INFO] - DB Disconected
+-[16.09.20 10:18:52:170] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 10:18:52:171] - [INFO] - DB Connected.
+-[16.09.20 10:18:52:171] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '312' AND `password` = 'd3c4e8360c80aecf0d4224f49ad051c0'"
+-[16.09.20 10:18:52:171] - [DEBUG] - 
+-[16.09.20 10:18:52:172] - [INFO] - DB Disconected
+-[16.09.20 10:56:21:437] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 10:56:21:438] - [INFO] - DB Connected.
+-[16.09.20 10:56:21:438] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '950a4152c2b4aa3ad78bdd6b366cc179'"
+-[16.09.20 10:56:21:438] - [DEBUG] - 
+-[16.09.20 10:56:21:439] - [INFO] - DB Disconected
+-[16.09.20 10:58:14:923] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 10:58:14:924] - [INFO] - DB Connected.
+-[16.09.20 10:58:14:924] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 10:58:14:925] - [DEBUG] - 
+-[16.09.20 10:58:14:925] - [INFO] - DB Disconected
+-[16.09.20 11:01:31:091] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:01:31:092] - [INFO] - DB Connected.
+-[16.09.20 11:01:31:092] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 11:01:31:093] - [DEBUG] - 
+-[16.09.20 11:01:31:093] - [INFO] - DB Disconected
+-[16.09.20 11:01:37:156] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:01:37:157] - [INFO] - DB Connected.
+-[16.09.20 11:01:37:157] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'wqe' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 11:01:37:157] - [DEBUG] - 
+-[16.09.20 11:01:37:158] - [INFO] - DB Disconected
+-[16.09.20 11:01:38:928] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:01:38:928] - [INFO] - DB Connected.
+-[16.09.20 11:01:38:928] - [INFO] - DB Disconected
+-[16.09.20 11:01:41:343] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:01:41:344] - [INFO] - DB Connected.
+-[16.09.20 11:01:41:344] - [INFO] - DB Disconected
+-[16.09.20 11:02:07:615] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:07:616] - [INFO] - DB Connected.
+-[16.09.20 11:02:07:616] - [INFO] - DB Disconected
+-[16.09.20 11:02:09:410] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:09:411] - [INFO] - DB Connected.
+-[16.09.20 11:02:09:412] - [INFO] - DB Disconected
+-[16.09.20 11:02:09:845] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:09:846] - [INFO] - DB Connected.
+-[16.09.20 11:02:09:846] - [INFO] - DB Disconected
+-[16.09.20 11:02:10:027] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:10:027] - [INFO] - DB Connected.
+-[16.09.20 11:02:10:027] - [INFO] - DB Disconected
+-[16.09.20 11:02:10:214] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:10:215] - [INFO] - DB Connected.
+-[16.09.20 11:02:10:216] - [INFO] - DB Disconected
+-[16.09.20 11:02:10:420] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:10:421] - [INFO] - DB Connected.
+-[16.09.20 11:02:10:421] - [INFO] - DB Disconected
+-[16.09.20 11:02:18:927] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:18:927] - [INFO] - DB Connected.
+-[16.09.20 11:02:18:927] - [INFO] - DB Disconected
+-[16.09.20 11:02:19:260] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:19:261] - [INFO] - DB Connected.
+-[16.09.20 11:02:19:261] - [INFO] - DB Disconected
+-[16.09.20 11:02:19:505] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:19:505] - [INFO] - DB Connected.
+-[16.09.20 11:02:19:505] - [INFO] - DB Disconected
+-[16.09.20 11:02:22:037] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:02:22:038] - [INFO] - DB Connected.
+-[16.09.20 11:02:22:038] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 11:02:22:038] - [DEBUG] - 
+-[16.09.20 11:02:22:039] - [INFO] - DB Disconected
+-[16.09.20 11:13:45:566] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:13:45:567] - [INFO] - DB Connected.
+-[16.09.20 11:13:45:567] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'asdhuhas' AND `password` = '4a97a499ad10fcd444fbe25298a614a5'"
+-[16.09.20 11:13:45:568] - [DEBUG] - 
+-[16.09.20 11:13:45:568] - [INFO] - DB Disconected
+-[16.09.20 11:15:51:026] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:15:51:027] - [INFO] - DB Connected.
+-[16.09.20 11:15:51:027] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'asdhuhas' AND `password` = '4a97a499ad10fcd444fbe25298a614a5'"
+-[16.09.20 11:15:51:027] - [DEBUG] - 
+-[16.09.20 11:15:51:027] - [INFO] - DB Disconected
+-[16.09.20 11:18:58:597] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:18:58:597] - [INFO] - DB Connected.
+-[16.09.20 11:18:58:597] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'ewfsdf' AND `password` = '0bdf2578ce5ab7f35509ed0081e80c70'"
+-[16.09.20 11:18:58:598] - [DEBUG] - 
+-[16.09.20 11:18:58:598] - [INFO] - DB Disconected
+-[16.09.20 11:20:47:092] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:20:47:093] - [INFO] - DB Connected.
+-[16.09.20 11:20:47:093] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 11:20:47:094] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 11:20:47:094] - [INFO] - DB Disconected
+-[16.09.20 11:20:47:104] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:20:47:105] - [INFO] - DB Connected.
+-[16.09.20 11:20:47:105] - [INFO] - DB Disconected
+-[16.09.20 11:20:51:973] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:20:51:973] - [INFO] - DB Connected.
+-[16.09.20 11:20:51:973] - [INFO] - DB Disconected
+-[16.09.20 11:20:53:486] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:20:53:487] - [INFO] - DB Connected.
+-[16.09.20 11:20:53:487] - [INFO] - DB Disconected
+-[16.09.20 11:20:53:497] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:20:53:498] - [INFO] - DB Connected.
+-[16.09.20 11:20:53:498] - [INFO] - DB Disconected
+-[16.09.20 11:20:57:210] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 11:20:57:210] - [INFO] - DB Connected.
+-[16.09.20 11:20:57:211] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '213123' AND `password` = 'c3d4d6b3032ceff72f8e0426f41944ba'"
+-[16.09.20 11:20:57:211] - [DEBUG] - 
+-[16.09.20 11:20:57:211] - [INFO] - DB Disconected
+-[16.09.20 14:17:14:696] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:17:14:697] - [INFO] - DB Connected.
+-[16.09.20 14:17:14:697] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '213123' AND `password` = 'c3d4d6b3032ceff72f8e0426f41944ba'"
+-[16.09.20 14:17:14:698] - [DEBUG] - 
+-[16.09.20 14:17:14:698] - [INFO] - DB Disconected
+-[16.09.20 14:18:51:965] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:18:51:965] - [INFO] - DB Connected.
+-[16.09.20 14:18:51:965] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '213123' AND `password` = 'c3d4d6b3032ceff72f8e0426f41944ba'"
+-[16.09.20 14:18:51:966] - [DEBUG] - 
+-[16.09.20 14:18:51:966] - [INFO] - DB Disconected
+-[16.09.20 14:19:05:807] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:19:05:807] - [INFO] - DB Connected.
+-[16.09.20 14:19:05:807] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '213123' AND `password` = 'c3d4d6b3032ceff72f8e0426f41944ba'"
+-[16.09.20 14:19:05:808] - [DEBUG] - 
+-[16.09.20 14:19:05:808] - [INFO] - DB Disconected
+-[16.09.20 14:19:07:226] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:19:07:227] - [INFO] - DB Connected.
+-[16.09.20 14:19:07:228] - [INFO] - DB Disconected
+-[16.09.20 14:19:10:591] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:19:10:591] - [INFO] - DB Connected.
+-[16.09.20 14:19:10:592] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '213123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 14:19:10:592] - [DEBUG] - 
+-[16.09.20 14:19:10:592] - [INFO] - DB Disconected
+-[16.09.20 14:19:11:957] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:19:11:957] - [INFO] - DB Connected.
+-[16.09.20 14:19:11:957] - [INFO] - DB Disconected
+-[16.09.20 14:19:39:822] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:19:39:823] - [INFO] - DB Connected.
+-[16.09.20 14:19:39:823] - [INFO] - DB Disconected
+-[16.09.20 14:27:34:808] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:27:34:809] - [INFO] - DB Connected.
+-[16.09.20 14:27:34:809] - [INFO] - DB Disconected
+-[16.09.20 14:27:44:752] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:27:44:753] - [INFO] - DB Connected.
+-[16.09.20 14:27:44:754] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 14:27:44:756] - [DEBUG] - 
+-[16.09.20 14:27:44:756] - [INFO] - DB Disconected
+-[16.09.20 14:27:50:991] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:27:50:992] - [INFO] - DB Connected.
+-[16.09.20 14:27:50:992] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 14:27:50:992] - [DEBUG] - 
+-[16.09.20 14:27:50:993] - [INFO] - DB Disconected
+-[16.09.20 14:28:00:633] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:00:633] - [INFO] - DB Connected.
+-[16.09.20 14:28:00:634] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 14:28:00:634] - [DEBUG] - 
+-[16.09.20 14:28:00:634] - [INFO] - DB Disconected
+-[16.09.20 14:28:02:774] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:02:774] - [INFO] - DB Connected.
+-[16.09.20 14:28:02:775] - [INFO] - DB Disconected
+-[16.09.20 14:28:04:309] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:04:309] - [INFO] - DB Connected.
+-[16.09.20 14:28:04:309] - [INFO] - DB Disconected
+-[16.09.20 14:28:05:016] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:05:017] - [INFO] - DB Connected.
+-[16.09.20 14:28:05:017] - [INFO] - DB Disconected
+-[16.09.20 14:28:05:218] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:05:219] - [INFO] - DB Connected.
+-[16.09.20 14:28:05:219] - [INFO] - DB Disconected
+-[16.09.20 14:28:05:427] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:05:427] - [INFO] - DB Connected.
+-[16.09.20 14:28:05:428] - [INFO] - DB Disconected
+-[16.09.20 14:28:05:628] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:05:628] - [INFO] - DB Connected.
+-[16.09.20 14:28:05:628] - [INFO] - DB Disconected
+-[16.09.20 14:28:05:836] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:05:837] - [INFO] - DB Connected.
+-[16.09.20 14:28:05:837] - [INFO] - DB Disconected
+-[16.09.20 14:28:08:672] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:08:672] - [INFO] - DB Connected.
+-[16.09.20 14:28:08:672] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 14:28:08:673] - [DEBUG] - 
+-[16.09.20 14:28:08:673] - [INFO] - DB Disconected
+-[16.09.20 14:28:09:951] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:09:951] - [INFO] - DB Connected.
+-[16.09.20 14:28:09:952] - [INFO] - DB Disconected
+-[16.09.20 14:28:11:780] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:11:780] - [INFO] - DB Connected.
+-[16.09.20 14:28:11:780] - [INFO] - DB Disconected
+-[16.09.20 14:28:13:468] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:28:13:469] - [INFO] - DB Connected.
+-[16.09.20 14:28:13:469] - [INFO] - DB Disconected
+-[16.09.20 14:36:19:119] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:19:120] - [INFO] - DB Connected.
+-[16.09.20 14:36:19:120] - [INFO] - DB Disconected
+-[16.09.20 14:36:19:894] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:19:895] - [INFO] - DB Connected.
+-[16.09.20 14:36:19:895] - [INFO] - DB Disconected
+-[16.09.20 14:36:20:110] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:20:111] - [INFO] - DB Connected.
+-[16.09.20 14:36:20:112] - [INFO] - DB Disconected
+-[16.09.20 14:36:20:321] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:20:322] - [INFO] - DB Connected.
+-[16.09.20 14:36:20:322] - [INFO] - DB Disconected
+-[16.09.20 14:36:22:610] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:22:611] - [INFO] - DB Connected.
+-[16.09.20 14:36:22:611] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qweqw' AND `password` = '157eb9ce33644ada6d0499c1097c4f5d'"
+-[16.09.20 14:36:22:613] - [DEBUG] - 
+-[16.09.20 14:36:22:613] - [INFO] - DB Disconected
+-[16.09.20 14:36:24:117] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:24:118] - [INFO] - DB Connected.
+-[16.09.20 14:36:24:118] - [INFO] - DB Disconected
+-[16.09.20 14:36:26:979] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:26:980] - [INFO] - DB Connected.
+-[16.09.20 14:36:26:980] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qweqwqwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 14:36:26:980] - [DEBUG] - 
+-[16.09.20 14:36:26:980] - [INFO] - DB Disconected
+-[16.09.20 14:36:28:044] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:28:045] - [INFO] - DB Connected.
+-[16.09.20 14:36:28:045] - [INFO] - DB Disconected
+-[16.09.20 14:36:29:045] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:29:045] - [INFO] - DB Connected.
+-[16.09.20 14:36:29:045] - [INFO] - DB Disconected
+-[16.09.20 14:36:31:230] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:31:230] - [INFO] - DB Connected.
+-[16.09.20 14:36:31:230] - [INFO] - DB Disconected
+-[16.09.20 14:36:34:378] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:34:379] - [INFO] - DB Connected.
+-[16.09.20 14:36:34:379] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 14:36:34:380] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 14:36:34:380] - [INFO] - DB Disconected
+-[16.09.20 14:36:34:391] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:34:392] - [INFO] - DB Connected.
+-[16.09.20 14:36:34:392] - [INFO] - DB Disconected
+-[16.09.20 14:36:35:233] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:35:234] - [INFO] - DB Connected.
+-[16.09.20 14:36:35:234] - [INFO] - DB Disconected
+-[16.09.20 14:36:35:245] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:35:245] - [INFO] - DB Connected.
+-[16.09.20 14:36:35:246] - [INFO] - DB Disconected
+-[16.09.20 14:36:39:676] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:39:677] - [INFO] - DB Connected.
+-[16.09.20 14:36:39:677] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe11' AND `password` = '698d51a19d8a121ce581499d7b701668'"
+-[16.09.20 14:36:39:678] - [DEBUG] - 
+-[16.09.20 14:36:39:678] - [INFO] - DB Disconected
+-[16.09.20 14:36:41:374] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:36:41:375] - [INFO] - DB Connected.
+-[16.09.20 14:36:41:376] - [INFO] - DB Disconected
+-[16.09.20 14:37:01:975] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:01:975] - [INFO] - DB Connected.
+-[16.09.20 14:37:01:975] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe11qw' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 14:37:01:976] - [DEBUG] - 
+-[16.09.20 14:37:01:976] - [INFO] - DB Disconected
+-[16.09.20 14:37:04:090] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:04:090] - [INFO] - DB Connected.
+-[16.09.20 14:37:04:090] - [INFO] - DB Disconected
+-[16.09.20 14:37:04:716] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:04:718] - [INFO] - DB Connected.
+-[16.09.20 14:37:04:718] - [INFO] - DB Disconected
+-[16.09.20 14:37:05:409] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:05:409] - [INFO] - DB Connected.
+-[16.09.20 14:37:05:409] - [INFO] - DB Disconected
+-[16.09.20 14:37:05:636] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:05:636] - [INFO] - DB Connected.
+-[16.09.20 14:37:05:637] - [INFO] - DB Disconected
+-[16.09.20 14:37:27:849] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:27:850] - [INFO] - DB Connected.
+-[16.09.20 14:37:27:850] - [INFO] - DB Disconected
+-[16.09.20 14:37:28:628] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:28:629] - [INFO] - DB Connected.
+-[16.09.20 14:37:28:629] - [INFO] - DB Disconected
+-[16.09.20 14:37:28:835] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:28:836] - [INFO] - DB Connected.
+-[16.09.20 14:37:28:836] - [INFO] - DB Disconected
+-[16.09.20 14:37:29:039] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:29:040] - [INFO] - DB Connected.
+-[16.09.20 14:37:29:040] - [INFO] - DB Disconected
+-[16.09.20 14:37:33:076] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:33:076] - [INFO] - DB Connected.
+-[16.09.20 14:37:33:077] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qweq' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 14:37:33:077] - [DEBUG] - 
+-[16.09.20 14:37:33:077] - [INFO] - DB Disconected
+-[16.09.20 14:37:35:615] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:35:616] - [INFO] - DB Connected.
+-[16.09.20 14:37:35:616] - [INFO] - DB Disconected
+-[16.09.20 14:37:40:288] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:40:289] - [INFO] - DB Connected.
+-[16.09.20 14:37:40:289] - [INFO] - DB Disconected
+-[16.09.20 14:37:40:621] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:40:621] - [INFO] - DB Connected.
+-[16.09.20 14:37:40:622] - [INFO] - DB Disconected
+-[16.09.20 14:37:40:848] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:37:40:848] - [INFO] - DB Connected.
+-[16.09.20 14:37:40:849] - [INFO] - DB Disconected
+-[16.09.20 14:39:02:800] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:02:801] - [INFO] - DB Connected.
+-[16.09.20 14:39:02:801] - [INFO] - DB Disconected
+-[16.09.20 14:39:03:254] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:03:255] - [INFO] - DB Connected.
+-[16.09.20 14:39:03:255] - [INFO] - DB Disconected
+-[16.09.20 14:39:03:454] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:03:455] - [INFO] - DB Connected.
+-[16.09.20 14:39:03:455] - [INFO] - DB Disconected
+-[16.09.20 14:39:03:668] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:03:668] - [INFO] - DB Connected.
+-[16.09.20 14:39:03:668] - [INFO] - DB Disconected
+-[16.09.20 14:39:03:883] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:03:884] - [INFO] - DB Connected.
+-[16.09.20 14:39:03:884] - [INFO] - DB Disconected
+-[16.09.20 14:39:10:723] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:10:723] - [INFO] - DB Connected.
+-[16.09.20 14:39:10:723] - [INFO] - DB Disconected
+-[16.09.20 14:39:11:763] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:11:763] - [INFO] - DB Connected.
+-[16.09.20 14:39:11:763] - [INFO] - DB Disconected
+-[16.09.20 14:39:35:795] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:35:795] - [INFO] - DB Connected.
+-[16.09.20 14:39:35:796] - [INFO] - DB Disconected
+-[16.09.20 14:39:40:335] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:40:335] - [INFO] - DB Connected.
+-[16.09.20 14:39:40:335] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'dfgd' AND `password` = 'bb629dea7af8bce50ce94bffdc515405'"
+-[16.09.20 14:39:40:336] - [DEBUG] - 
+-[16.09.20 14:39:40:336] - [INFO] - DB Disconected
+-[16.09.20 14:39:41:710] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:41:710] - [INFO] - DB Connected.
+-[16.09.20 14:39:41:710] - [INFO] - DB Disconected
+-[16.09.20 14:39:46:183] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:46:184] - [INFO] - DB Connected.
+-[16.09.20 14:39:46:184] - [INFO] - DB Disconected
+-[16.09.20 14:39:47:878] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:39:47:879] - [INFO] - DB Connected.
+-[16.09.20 14:39:47:879] - [INFO] - DB Disconected
+-[16.09.20 14:40:01:020] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:40:01:020] - [INFO] - DB Connected.
+-[16.09.20 14:40:01:020] - [INFO] - DB Disconected
+-[16.09.20 14:51:33:834] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:51:33:834] - [INFO] - DB Connected.
+-[16.09.20 14:51:33:834] - [INFO] - DB Disconected
+-[16.09.20 14:51:39:305] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:51:39:306] - [INFO] - DB Connected.
+-[16.09.20 14:51:39:306] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'фыорваофывр' AND `password` = 'bdfb7151f9fd515e2478e527164962f1'"
+-[16.09.20 14:51:39:308] - [DEBUG] - 
+-[16.09.20 14:51:39:308] - [INFO] - DB Disconected
+-[16.09.20 14:51:52:220] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 14:51:52:221] - [INFO] - DB Connected.
+-[16.09.20 14:51:52:221] - [INFO] - DB Disconected
+-[16.09.20 15:00:20:966] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:00:20:967] - [INFO] - DB Connected.
+-[16.09.20 15:00:20:967] - [INFO] - DB Disconected
+-[16.09.20 15:16:15:086] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:16:15:087] - [INFO] - DB Connected.
+-[16.09.20 15:16:15:087] - [INFO] - DB Disconected
+-[16.09.20 15:16:21:091] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:16:21:093] - [INFO] - DB Connected.
+-[16.09.20 15:16:21:093] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 15:16:21:094] - [DEBUG] - 
+-[16.09.20 15:16:21:095] - [INFO] - DB Disconected
+-[16.09.20 15:24:32:814] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:24:32:815] - [INFO] - DB Connected.
+-[16.09.20 15:24:32:815] - [INFO] - DB Disconected
+-[16.09.20 15:24:34:351] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:24:34:352] - [INFO] - DB Connected.
+-[16.09.20 15:24:34:352] - [INFO] - DB Disconected
+-[16.09.20 15:24:34:710] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:24:34:711] - [INFO] - DB Connected.
+-[16.09.20 15:24:34:711] - [INFO] - DB Disconected
+-[16.09.20 15:24:37:646] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:24:37:646] - [INFO] - DB Connected.
+-[16.09.20 15:24:37:646] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 15:24:37:647] - [DEBUG] - 
+-[16.09.20 15:24:37:647] - [INFO] - DB Disconected
+-[16.09.20 15:32:36:519] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:36:520] - [INFO] - DB Connected.
+-[16.09.20 15:32:36:520] - [INFO] - DB Disconected
+-[16.09.20 15:32:37:569] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:37:569] - [INFO] - DB Connected.
+-[16.09.20 15:32:37:570] - [INFO] - DB Disconected
+-[16.09.20 15:32:41:902] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:41:903] - [INFO] - DB Connected.
+-[16.09.20 15:32:41:903] - [INFO] - DB Disconected
+-[16.09.20 15:32:42:601] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:42:601] - [INFO] - DB Connected.
+-[16.09.20 15:32:42:602] - [INFO] - DB Disconected
+-[16.09.20 15:32:42:940] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:42:941] - [INFO] - DB Connected.
+-[16.09.20 15:32:42:941] - [INFO] - DB Disconected
+-[16.09.20 15:32:43:205] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:43:206] - [INFO] - DB Connected.
+-[16.09.20 15:32:43:206] - [INFO] - DB Disconected
+-[16.09.20 15:32:45:899] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:45:899] - [INFO] - DB Connected.
+-[16.09.20 15:32:45:899] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 15:32:45:900] - [DEBUG] - 
+-[16.09.20 15:32:45:900] - [INFO] - DB Disconected
+-[16.09.20 15:32:48:921] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:48:922] - [INFO] - DB Connected.
+-[16.09.20 15:32:48:922] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 15:32:48:923] - [DEBUG] - 
+-[16.09.20 15:32:48:923] - [INFO] - DB Disconected
+-[16.09.20 15:32:55:245] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:55:246] - [INFO] - DB Connected.
+-[16.09.20 15:32:55:246] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 15:32:55:246] - [DEBUG] - 
+-[16.09.20 15:32:55:247] - [INFO] - DB Disconected
+-[16.09.20 15:32:58:564] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:32:58:565] - [INFO] - DB Connected.
+-[16.09.20 15:32:58:565] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '04542cdd4d27b5e7bff78ed58a48c7e5'"
+-[16.09.20 15:32:58:566] - [DEBUG] - 
+-[16.09.20 15:32:58:566] - [INFO] - DB Disconected
+-[16.09.20 15:41:17:108] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:41:17:108] - [INFO] - DB Connected.
+-[16.09.20 15:41:17:108] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '04542cdd4d27b5e7bff78ed58a48c7e5'"
+-[16.09.20 15:41:17:109] - [DEBUG] - 
+-[16.09.20 15:41:17:109] - [INFO] - DB Disconected
+-[16.09.20 15:41:20:452] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:41:20:453] - [INFO] - DB Connected.
+-[16.09.20 15:41:20:453] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 15:41:20:453] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 15:41:20:454] - [INFO] - DB Disconected
+-[16.09.20 15:41:20:462] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:41:20:465] - [INFO] - DB Connected.
+-[16.09.20 15:41:20:465] - [INFO] - DB Disconected
+-[16.09.20 15:41:21:563] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:41:21:564] - [INFO] - DB Connected.
+-[16.09.20 15:41:21:564] - [INFO] - DB Disconected
+-[16.09.20 15:41:21:575] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:41:21:575] - [INFO] - DB Connected.
+-[16.09.20 15:41:21:576] - [INFO] - DB Disconected
+-[16.09.20 15:41:24:274] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:41:24:275] - [INFO] - DB Connected.
+-[16.09.20 15:41:24:275] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwwq' AND `password` = '7a12a47984333222320df4510947fbdd'"
+-[16.09.20 15:41:24:275] - [DEBUG] - 
+-[16.09.20 15:41:24:276] - [INFO] - DB Disconected
+-[16.09.20 15:47:54:947] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:47:54:948] - [INFO] - DB Connected.
+-[16.09.20 15:47:54:948] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwwq' AND `password` = '7a12a47984333222320df4510947fbdd'"
+-[16.09.20 15:47:54:949] - [DEBUG] - 
+-[16.09.20 15:47:54:949] - [INFO] - DB Disconected
+-[16.09.20 15:47:58:199] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:47:58:199] - [INFO] - DB Connected.
+-[16.09.20 15:47:58:199] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'wqewq' AND `password` = '157eb9ce33644ada6d0499c1097c4f5d'"
+-[16.09.20 15:47:58:200] - [DEBUG] - 
+-[16.09.20 15:47:58:200] - [INFO] - DB Disconected
+-[16.09.20 15:48:02:391] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:02:392] - [INFO] - DB Connected.
+-[16.09.20 15:48:02:392] - [INFO] - DB Disconected
+-[16.09.20 15:48:03:685] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:03:685] - [INFO] - DB Connected.
+-[16.09.20 15:48:03:686] - [INFO] - DB Disconected
+-[16.09.20 15:48:08:110] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:08:110] - [INFO] - DB Connected.
+-[16.09.20 15:48:08:110] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '4f2145a772ed4ccac763f5c1b2cd3e88'"
+-[16.09.20 15:48:08:111] - [DEBUG] - 
+-[16.09.20 15:48:08:111] - [INFO] - DB Disconected
+-[16.09.20 15:48:14:820] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:14:821] - [INFO] - DB Connected.
+-[16.09.20 15:48:14:821] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 15:48:14:822] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 15:48:14:822] - [INFO] - DB Disconected
+-[16.09.20 15:48:14:833] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:14:833] - [INFO] - DB Connected.
+-[16.09.20 15:48:14:834] - [INFO] - DB Disconected
+-[16.09.20 15:48:16:077] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:16:077] - [INFO] - DB Connected.
+-[16.09.20 15:48:16:077] - [INFO] - DB Disconected
+-[16.09.20 15:48:16:085] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:16:086] - [INFO] - DB Connected.
+-[16.09.20 15:48:16:086] - [INFO] - DB Disconected
+-[16.09.20 15:48:16:902] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:48:16:902] - [INFO] - DB Connected.
+-[16.09.20 15:48:16:903] - [INFO] - DB Disconected
+-[16.09.20 15:54:08:916] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:08:917] - [INFO] - DB Connected.
+-[16.09.20 15:54:08:917] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('йцуйцаф', 'qadfsc@dasfas.com', '7fc50f90203ef22d40d750a7c2d0407a')"
+-[16.09.20 15:54:08:972] - [INFO] - DB Disconected
+-[16.09.20 15:54:08:982] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:08:982] - [INFO] - DB Connected.
+-[16.09.20 15:54:08:982] - [INFO] - DB Disconected
+-[16.09.20 15:54:10:559] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:10:560] - [INFO] - DB Connected.
+-[16.09.20 15:54:10:560] - [INFO] - DB Disconected
+-[16.09.20 15:54:10:570] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:10:571] - [INFO] - DB Connected.
+-[16.09.20 15:54:10:571] - [INFO] - DB Disconected
+-[16.09.20 15:54:11:837] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:11:837] - [INFO] - DB Connected.
+-[16.09.20 15:54:11:837] - [INFO] - DB Disconected
+-[16.09.20 15:54:32:486] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:32:487] - [INFO] - DB Connected.
+-[16.09.20 15:54:32:487] - [INFO] - DB Disconected
+-[16.09.20 15:54:34:173] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:54:34:173] - [INFO] - DB Connected.
+-[16.09.20 15:54:34:174] - [INFO] - DB Disconected
+-[16.09.20 15:55:44:557] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:55:44:557] - [INFO] - DB Connected.
+-[16.09.20 15:55:44:557] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('user', 'test@cc', 'c4ca4238a0b923820dcc509a6f75849b')"
+-[16.09.20 15:55:44:707] - [INFO] - DB Disconected
+-[16.09.20 15:58:31:101] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 15:58:31:101] - [INFO] - DB Connected.
+-[16.09.20 15:58:31:101] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('user', 'test@cc', 'c4ca4238a0b923820dcc509a6f75849b')"
+-[16.09.20 15:58:31:110] - [INFO] - DB Disconected
+-[16.09.20 16:48:08:276] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:48:08:276] - [INFO] - DB Connected.
+-[16.09.20 16:48:08:277] - [INFO] - DB Disconected
+-[16.09.20 16:48:13:360] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:48:13:361] - [INFO] - DB Connected.
+-[16.09.20 16:48:13:361] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 16:48:13:362] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 16:48:13:362] - [INFO] - DB Disconected
+-[16.09.20 16:48:13:374] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:48:13:375] - [INFO] - DB Connected.
+-[16.09.20 16:48:13:411] - [INFO] - DB Disconected
+-[16.09.20 16:50:58:904] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:50:58:904] - [INFO] - DB Connected.
+-[16.09.20 16:50:58:905] - [INFO] - DB Disconected
+-[16.09.20 16:50:59:453] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:50:59:453] - [INFO] - DB Connected.
+-[16.09.20 16:50:59:454] - [INFO] - DB Disconected
+-[16.09.20 16:51:41:160] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:51:41:160] - [INFO] - DB Connected.
+-[16.09.20 16:51:41:161] - [INFO] - DB Disconected
+-[16.09.20 16:51:42:298] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:51:42:298] - [INFO] - DB Connected.
+-[16.09.20 16:51:42:298] - [INFO] - DB Disconected
+-[16.09.20 16:51:42:310] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:51:42:311] - [INFO] - DB Connected.
+-[16.09.20 16:51:42:311] - [INFO] - DB Disconected
+-[16.09.20 16:51:49:105] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:51:49:105] - [INFO] - DB Connected.
+-[16.09.20 16:51:49:106] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 16:51:49:106] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 16:51:49:106] - [INFO] - DB Disconected
+-[16.09.20 16:51:49:118] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:51:49:118] - [INFO] - DB Connected.
+-[16.09.20 16:51:49:119] - [INFO] - DB Disconected
+-[16.09.20 16:53:56:790] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:53:56:792] - [INFO] - DB Connected.
+-[16.09.20 16:53:56:793] - [INFO] - DB Disconected
+-[16.09.20 16:53:57:333] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:53:57:334] - [INFO] - DB Connected.
+-[16.09.20 16:53:57:334] - [INFO] - DB Disconected
+-[16.09.20 16:55:23:053] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:55:23:054] - [INFO] - DB Connected.
+-[16.09.20 16:55:23:054] - [INFO] - DB Disconected
+-[16.09.20 16:55:59:223] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:55:59:223] - [INFO] - DB Connected.
+-[16.09.20 16:55:59:224] - [INFO] - DB Disconected
+-[16.09.20 16:56:34:611] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:56:34:611] - [INFO] - DB Connected.
+-[16.09.20 16:56:34:612] - [INFO] - DB Disconected
+-[16.09.20 16:59:08:666] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:08:666] - [INFO] - DB Connected.
+-[16.09.20 16:59:08:667] - [INFO] - DB Disconected
+-[16.09.20 16:59:09:256] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:09:256] - [INFO] - DB Connected.
+-[16.09.20 16:59:09:257] - [INFO] - DB Disconected
+-[16.09.20 16:59:13:800] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:13:868] - [INFO] - DB Connected.
+-[16.09.20 16:59:13:869] - [INFO] - DB Disconected
+-[16.09.20 16:59:13:879] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:13:879] - [INFO] - DB Connected.
+-[16.09.20 16:59:13:879] - [INFO] - DB Disconected
+-[16.09.20 16:59:18:031] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:18:032] - [INFO] - DB Connected.
+-[16.09.20 16:59:18:032] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = '123' AND `password` = '202cb962ac59075b964b07152d234b70'"
+-[16.09.20 16:59:18:033] - [DEBUG] - 
+-[16.09.20 16:59:18:033] - [INFO] - DB Disconected
+-[16.09.20 16:59:27:071] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:27:071] - [INFO] - DB Connected.
+-[16.09.20 16:59:27:071] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 16:59:27:072] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 16:59:27:072] - [INFO] - DB Disconected
+-[16.09.20 16:59:27:081] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:27:082] - [INFO] - DB Connected.
+-[16.09.20 16:59:27:083] - [INFO] - DB Disconected
+-[16.09.20 16:59:29:045] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:29:050] - [INFO] - DB Connected.
+-[16.09.20 16:59:29:051] - [INFO] - DB Disconected
+-[16.09.20 16:59:29:060] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:29:062] - [INFO] - DB Connected.
+-[16.09.20 16:59:29:063] - [INFO] - DB Disconected
+-[16.09.20 16:59:29:942] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:29:942] - [INFO] - DB Connected.
+-[16.09.20 16:59:29:943] - [INFO] - DB Disconected
+-[16.09.20 16:59:31:655] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:31:655] - [INFO] - DB Connected.
+-[16.09.20 16:59:31:656] - [INFO] - DB Disconected
+-[16.09.20 16:59:35:115] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:35:116] - [INFO] - DB Connected.
+-[16.09.20 16:59:35:116] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[16.09.20 16:59:35:117] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[16.09.20 16:59:35:118] - [INFO] - DB Disconected
+-[16.09.20 16:59:35:126] - [WARNING] - DataBase: Empty password is bad idea.
+-[16.09.20 16:59:35:126] - [INFO] - DB Connected.
+-[16.09.20 16:59:35:127] - [INFO] - DB Disconected
+-[17.09.20 10:39:52:127] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:39:52:128] - [INFO] - DB Connected.
+-[17.09.20 10:40:01:086] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:01:086] - [INFO] - DB Connected.
+-[17.09.20 10:40:17:017] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:17:021] - [INFO] - DB Connected.
+-[17.09.20 10:40:21:724] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:21:725] - [INFO] - DB Connected.
+-[17.09.20 10:40:21:725] - [INFO] - DB Disconected
+-[17.09.20 10:40:51:289] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:51:290] - [INFO] - DB Connected.
+-[17.09.20 10:40:51:291] - [DEBUG] - DB INSERT SQL: "INSERT INTO `users` (`username`, `email`, `password`) VALUES ('nbvb', 'qwd@asd.com', '49f0bad299687c62334182178bfd75d8')"
+-[17.09.20 10:40:51:324] - [INFO] - DB Disconected
+-[17.09.20 10:40:51:334] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:51:335] - [INFO] - DB Connected.
+-[17.09.20 10:40:51:335] - [INFO] - DB Disconected
+-[17.09.20 10:40:53:088] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:53:088] - [INFO] - DB Connected.
+-[17.09.20 10:40:53:088] - [INFO] - DB Disconected
+-[17.09.20 10:40:53:102] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:53:103] - [INFO] - DB Connected.
+-[17.09.20 10:40:53:103] - [INFO] - DB Disconected
+-[17.09.20 10:40:56:875] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 10:40:56:876] - [INFO] - DB Connected.
+-[17.09.20 10:40:56:876] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = 'bca967415c254dc10128990b119c4237'"
+-[17.09.20 10:40:56:877] - [DEBUG] - 
+-[17.09.20 10:40:56:877] - [INFO] - DB Disconected
+-[17.09.20 11:12:05:393] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:12:05:393] - [INFO] - DB Connected.
+-[17.09.20 11:12:05:393] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = 'bca967415c254dc10128990b119c4237'"
+-[17.09.20 11:12:05:394] - [DEBUG] - 
+-[17.09.20 11:12:05:394] - [INFO] - DB Disconected
+-[17.09.20 11:12:19:695] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:12:19:695] - [INFO] - DB Connected.
+-[17.09.20 11:12:19:695] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[17.09.20 11:12:19:696] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[17.09.20 11:12:19:696] - [INFO] - DB Disconected
+-[17.09.20 11:12:19:708] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:12:19:708] - [INFO] - DB Connected.
+-[17.09.20 11:12:19:709] - [INFO] - DB Disconected
+-[17.09.20 11:14:24:499] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:24:500] - [INFO] - DB Connected.
+-[17.09.20 11:14:24:500] - [INFO] - DB Disconected
+-[17.09.20 11:14:25:392] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:25:392] - [INFO] - DB Connected.
+-[17.09.20 11:14:25:393] - [INFO] - DB Disconected
+-[17.09.20 11:14:25:402] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:25:403] - [INFO] - DB Connected.
+-[17.09.20 11:14:25:403] - [INFO] - DB Disconected
+-[17.09.20 11:14:27:299] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:27:300] - [INFO] - DB Connected.
+-[17.09.20 11:14:28:631] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:28:632] - [INFO] - DB Connected.
+-[17.09.20 11:14:28:632] - [INFO] - DB Disconected
+-[17.09.20 11:14:38:971] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:38:971] - [INFO] - DB Connected.
+-[17.09.20 11:14:38:971] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[17.09.20 11:14:38:972] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[17.09.20 11:14:38:972] - [INFO] - DB Disconected
+-[17.09.20 11:14:38:983] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:38:984] - [INFO] - DB Connected.
+-[17.09.20 11:14:38:984] - [INFO] - DB Disconected
+-[17.09.20 11:14:40:780] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:40:781] - [INFO] - DB Connected.
+-[17.09.20 11:14:40:781] - [INFO] - DB Disconected
+-[17.09.20 11:14:40:790] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:40:791] - [INFO] - DB Connected.
+-[17.09.20 11:14:40:791] - [INFO] - DB Disconected
+-[17.09.20 11:14:44:302] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:44:302] - [INFO] - DB Connected.
+-[17.09.20 11:14:44:302] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[17.09.20 11:14:44:303] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[17.09.20 11:14:44:303] - [INFO] - DB Disconected
+-[17.09.20 11:14:44:313] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 11:14:44:314] - [INFO] - DB Connected.
+-[17.09.20 11:14:44:314] - [INFO] - DB Disconected
+-[17.09.20 12:09:02:604] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 12:09:02:604] - [INFO] - DB Connected.
+-[17.09.20 12:09:02:604] - [INFO] - DB Disconected
+-[17.09.20 12:09:03:838] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 12:09:03:840] - [INFO] - DB Connected.
+-[17.09.20 12:09:03:840] - [INFO] - DB Disconected
+-[17.09.20 12:09:03:849] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 12:09:03:849] - [INFO] - DB Connected.
+-[17.09.20 12:09:03:849] - [INFO] - DB Disconected
+-[17.09.20 12:09:06:505] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 12:09:06:507] - [INFO] - DB Connected.
+-[17.09.20 12:09:06:507] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[17.09.20 12:09:06:513] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[17.09.20 12:09:06:513] - [INFO] - DB Disconected
+-[17.09.20 12:09:06:523] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 12:09:06:524] - [INFO] - DB Connected.
+-[17.09.20 12:09:06:525] - [INFO] - DB Disconected
+-[17.09.20 13:09:45:103] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:09:45:103] - [INFO] - DB Connected.
+-[17.09.20 13:10:37:012] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:10:37:013] - [INFO] - DB Connected.
+-[17.09.20 13:10:37:013] - [INFO] - DB Disconected
+-[17.09.20 13:10:38:722] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:10:38:722] - [INFO] - DB Connected.
+-[17.09.20 13:10:38:722] - [INFO] - DB Disconected
+-[17.09.20 13:10:38:732] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:10:38:734] - [INFO] - DB Connected.
+-[17.09.20 13:10:38:735] - [INFO] - DB Disconected
+-[17.09.20 13:10:41:743] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:10:41:743] - [INFO] - DB Connected.
+-[17.09.20 13:10:41:743] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[17.09.20 13:10:41:744] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[17.09.20 13:10:41:744] - [INFO] - DB Disconected
+-[17.09.20 13:10:41:755] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:10:41:756] - [INFO] - DB Connected.
+-[17.09.20 13:10:41:756] - [INFO] - DB Disconected
+-[17.09.20 13:31:33:027] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:31:33:027] - [INFO] - DB Connected.
+-[17.09.20 13:31:33:027] - [INFO] - DB Disconected
+-[17.09.20 13:31:34:321] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:31:34:321] - [INFO] - DB Connected.
+-[17.09.20 13:31:34:321] - [INFO] - DB Disconected
+-[17.09.20 13:31:34:330] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:31:34:331] - [INFO] - DB Connected.
+-[17.09.20 13:31:34:332] - [INFO] - DB Disconected
+-[17.09.20 13:31:38:140] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:31:38:141] - [INFO] - DB Connected.
+-[17.09.20 13:31:38:141] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[17.09.20 13:31:38:142] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[17.09.20 13:31:38:142] - [INFO] - DB Disconected
+-[17.09.20 13:31:38:150] - [WARNING] - DataBase: Empty password is bad idea.
+-[17.09.20 13:31:38:151] - [INFO] - DB Connected.
+-[17.09.20 13:31:38:151] - [INFO] - DB Disconected
+-[18.09.20 09:43:12:545] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 09:43:12:545] - [INFO] - DB Connected.
+-[18.09.20 09:43:12:546] - [INFO] - DB Disconected
+-[18.09.20 09:43:12:555] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 09:43:12:556] - [INFO] - DB Connected.
+-[18.09.20 09:43:12:557] - [INFO] - DB Disconected
+-[18.09.20 10:05:04:172] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:05:04:172] - [INFO] - DB Connected.
+-[18.09.20 10:05:04:172] - [INFO] - DB Disconected
+-[18.09.20 10:05:07:977] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:05:07:978] - [INFO] - DB Connected.
+-[18.09.20 10:05:07:978] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[18.09.20 10:05:07:979] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[18.09.20 10:05:07:979] - [INFO] - DB Disconected
+-[18.09.20 10:05:07:990] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:05:07:990] - [INFO] - DB Connected.
+-[18.09.20 10:05:07:991] - [INFO] - DB Disconected
+-[18.09.20 10:06:48:088] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:06:48:089] - [INFO] - DB Connected.
+-[18.09.20 10:06:48:089] - [INFO] - DB Disconected
+-[18.09.20 10:08:38:573] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:08:38:573] - [INFO] - DB Connected.
+-[18.09.20 10:08:38:573] - [INFO] - DB Disconected
+-[18.09.20 10:09:56:495] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:09:56:496] - [INFO] - DB Connected.
+-[18.09.20 10:09:56:496] - [INFO] - DB Disconected
+-[18.09.20 10:10:06:383] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:10:06:384] - [INFO] - DB Connected.
+-[18.09.20 10:10:06:384] - [INFO] - DB Disconected
+-[18.09.20 10:10:06:724] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:10:06:724] - [INFO] - DB Connected.
+-[18.09.20 10:10:06:724] - [INFO] - DB Disconected
+-[18.09.20 10:10:06:942] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:10:06:942] - [INFO] - DB Connected.
+-[18.09.20 10:10:06:943] - [INFO] - DB Disconected
+-[18.09.20 10:13:09:474] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:13:09:474] - [INFO] - DB Connected.
+-[18.09.20 10:13:09:475] - [INFO] - DB Disconected
+-[18.09.20 10:14:12:581] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:14:12:582] - [INFO] - DB Connected.
+-[18.09.20 10:14:12:582] - [INFO] - DB Disconected
+-[18.09.20 10:25:47:179] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:25:47:179] - [INFO] - DB Connected.
+-[18.09.20 10:25:47:180] - [INFO] - DB Disconected
+-[18.09.20 10:34:09:998] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 10:34:09:998] - [INFO] - DB Connected.
+-[18.09.20 10:34:09:998] - [INFO] - DB Disconected
+-[18.09.20 11:13:11:018] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:13:11:019] - [INFO] - DB Connected.
+-[18.09.20 11:13:11:019] - [INFO] - DB Disconected
+-[18.09.20 11:17:09:491] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:09:491] - [INFO] - DB Connected.
+-[18.09.20 11:17:09:492] - [INFO] - DB Disconected
+-[18.09.20 11:17:26:566] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:26:567] - [INFO] - DB Connected.
+-[18.09.20 11:17:26:567] - [INFO] - DB Disconected
+-[18.09.20 11:17:27:557] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:27:557] - [INFO] - DB Connected.
+-[18.09.20 11:17:27:557] - [INFO] - DB Disconected
+-[18.09.20 11:17:27:794] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:27:795] - [INFO] - DB Connected.
+-[18.09.20 11:17:27:795] - [INFO] - DB Disconected
+-[18.09.20 11:17:28:08] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:28:08] - [INFO] - DB Connected.
+-[18.09.20 11:17:28:09] - [INFO] - DB Disconected
+-[18.09.20 11:17:36:315] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:36:316] - [INFO] - DB Connected.
+-[18.09.20 11:17:36:316] - [INFO] - DB Disconected
+-[18.09.20 11:17:36:670] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:36:670] - [INFO] - DB Connected.
+-[18.09.20 11:17:36:670] - [INFO] - DB Disconected
+-[18.09.20 11:17:36:900] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:17:36:901] - [INFO] - DB Connected.
+-[18.09.20 11:17:36:901] - [INFO] - DB Disconected
+-[18.09.20 11:21:46:041] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:21:46:041] - [INFO] - DB Connected.
+-[18.09.20 11:21:46:042] - [INFO] - DB Disconected
+-[18.09.20 11:31:11:137] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:31:11:138] - [INFO] - DB Connected.
+-[18.09.20 11:32:27:146] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:32:27:147] - [INFO] - DB Connected.
+-[18.09.20 11:32:27:937] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:32:27:937] - [INFO] - DB Connected.
+-[18.09.20 11:32:28:172] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:32:28:172] - [INFO] - DB Connected.
+-[18.09.20 11:32:28:372] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:32:28:373] - [INFO] - DB Connected.
+-[18.09.20 11:32:28:588] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:32:28:588] - [INFO] - DB Connected.
+-[18.09.20 11:33:45:942] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:33:45:942] - [INFO] - DB Connected.
+-[18.09.20 11:33:46:358] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:33:46:359] - [INFO] - DB Connected.
+-[18.09.20 11:33:46:597] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:33:46:597] - [INFO] - DB Connected.
+-[18.09.20 11:34:06:104] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:06:105] - [INFO] - DB Connected.
+-[18.09.20 11:34:06:632] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:06:633] - [INFO] - DB Connected.
+-[18.09.20 11:34:06:871] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:06:871] - [INFO] - DB Connected.
+-[18.09.20 11:34:11:953] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:11:953] - [INFO] - DB Connected.
+-[18.09.20 11:34:31:396] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:31:397] - [INFO] - DB Connected.
+-[18.09.20 11:34:31:879] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:31:880] - [INFO] - DB Connected.
+-[18.09.20 11:34:32:111] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:32:111] - [INFO] - DB Connected.
+-[18.09.20 11:34:42:527] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:34:42:528] - [INFO] - DB Connected.
+-[18.09.20 11:34:42:528] - [INFO] - DB Disconected
+-[18.09.20 11:35:04:978] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:35:04:978] - [INFO] - DB Connected.
+-[18.09.20 11:36:31:441] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:36:31:442] - [INFO] - DB Connected.
+-[18.09.20 11:37:14:339] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:37:14:340] - [INFO] - DB Connected.
+-[18.09.20 11:37:14:340] - [INFO] - DB Disconected
+-[18.09.20 11:37:25:910] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:37:25:910] - [INFO] - DB Connected.
+-[18.09.20 11:37:36:072] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:37:36:072] - [INFO] - DB Connected.
+-[18.09.20 11:37:36:476] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:37:36:477] - [INFO] - DB Connected.
+-[18.09.20 11:37:36:674] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:37:36:674] - [INFO] - DB Connected.
+-[18.09.20 11:37:42:318] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:37:42:319] - [INFO] - DB Connected.
+-[18.09.20 11:37:42:319] - [INFO] - DB Disconected
+-[18.09.20 11:38:20:028] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:38:20:028] - [INFO] - DB Connected.
+-[18.09.20 11:38:20:028] - [INFO] - DB Disconected
+-[18.09.20 11:38:20:371] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:38:20:371] - [INFO] - DB Connected.
+-[18.09.20 11:38:20:371] - [INFO] - DB Disconected
+-[18.09.20 11:41:12:362] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:41:12:363] - [INFO] - DB Connected.
+-[18.09.20 11:41:12:363] - [INFO] - DB Disconected
+-[18.09.20 11:42:09:490] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:42:09:491] - [INFO] - DB Connected.
+-[18.09.20 11:46:01:361] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 11:46:01:361] - [INFO] - DB Connected.
+-[18.09.20 13:43:11:358] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 13:43:11:359] - [INFO] - DB Connected.
+-[18.09.20 13:43:11:359] - [INFO] - DB Disconected
+-[18.09.20 14:00:22:011] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:00:22:012] - [INFO] - DB Connected.
+-[18.09.20 14:00:43:363] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:00:43:363] - [INFO] - DB Connected.
+-[18.09.20 14:00:45:502] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:00:45:503] - [INFO] - DB Connected.
+-[18.09.20 14:00:46:839] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:00:46:839] - [INFO] - DB Connected.
+-[18.09.20 14:00:53:694] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:00:53:695] - [INFO] - DB Connected.
+-[18.09.20 14:00:53:695] - [INFO] - DB Disconected
+-[18.09.20 14:01:11:447] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:01:11:448] - [INFO] - DB Connected.
+-[18.09.20 14:01:11:448] - [INFO] - DB Disconected
+-[18.09.20 14:01:13:979] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:01:13:979] - [INFO] - DB Connected.
+-[18.09.20 14:01:13:979] - [INFO] - DB Disconected
+-[18.09.20 14:04:57:350] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:04:57:351] - [INFO] - DB Connected.
+-[18.09.20 14:04:57:930] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:04:57:933] - [INFO] - DB Connected.
+-[18.09.20 14:04:58:875] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:04:58:881] - [INFO] - DB Connected.
+-[18.09.20 14:04:59:689] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:04:59:694] - [INFO] - DB Connected.
+-[18.09.20 14:05:00:209] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:05:00:213] - [INFO] - DB Connected.
+-[18.09.20 14:05:07:665] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:05:07:686] - [INFO] - DB Connected.
+-[18.09.20 14:05:10:064] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:05:10:065] - [INFO] - DB Connected.
+-[18.09.20 14:05:11:071] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:05:11:072] - [INFO] - DB Connected.
+-[18.09.20 14:05:12:312] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:05:12:312] - [INFO] - DB Connected.
+-[18.09.20 14:06:41:895] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:41:954] - [INFO] - DB Connected.
+-[18.09.20 14:06:43:035] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:43:036] - [INFO] - DB Connected.
+-[18.09.20 14:06:43:801] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:43:802] - [INFO] - DB Connected.
+-[18.09.20 14:06:44:579] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:44:634] - [INFO] - DB Connected.
+-[18.09.20 14:06:45:446] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:45:468] - [INFO] - DB Connected.
+-[18.09.20 14:06:45:992] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:46:023] - [INFO] - DB Connected.
+-[18.09.20 14:06:50:099] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:50:120] - [INFO] - DB Connected.
+-[18.09.20 14:06:50:127] - [INFO] - DB Disconected
+-[18.09.20 14:06:51:392] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:51:392] - [INFO] - DB Connected.
+-[18.09.20 14:06:51:393] - [INFO] - DB Disconected
+-[18.09.20 14:06:52:096] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:52:097] - [INFO] - DB Connected.
+-[18.09.20 14:06:52:097] - [INFO] - DB Disconected
+-[18.09.20 14:06:52:619] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:52:620] - [INFO] - DB Connected.
+-[18.09.20 14:06:52:620] - [INFO] - DB Disconected
+-[18.09.20 14:06:52:891] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:06:52:892] - [INFO] - DB Connected.
+-[18.09.20 14:06:52:892] - [INFO] - DB Disconected
+-[18.09.20 14:09:59:931] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:09:59:953] - [INFO] - DB Connected.
+-[18.09.20 14:09:59:961] - [INFO] - DB Disconected
+-[18.09.20 14:10:01:189] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:10:01:189] - [INFO] - DB Connected.
+-[18.09.20 14:10:01:189] - [INFO] - DB Disconected
+-[18.09.20 14:10:02:301] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:10:02:301] - [INFO] - DB Connected.
+-[18.09.20 14:10:02:301] - [INFO] - DB Disconected
+-[18.09.20 14:31:56:05] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:31:56:029] - [INFO] - DB Connected.
+-[18.09.20 14:32:01:631] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:32:01:632] - [INFO] - DB Connected.
+-[18.09.20 14:32:03:222] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:32:03:223] - [INFO] - DB Connected.
+-[18.09.20 14:32:03:223] - [INFO] - DB Disconected
+-[18.09.20 14:32:05:016] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:32:05:036] - [INFO] - DB Connected.
+-[18.09.20 14:32:05:748] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:32:05:748] - [INFO] - DB Connected.
+-[18.09.20 14:32:05:750] - [INFO] - DB Disconected
+-[18.09.20 14:32:10:048] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:32:10:050] - [INFO] - DB Connected.
+-[18.09.20 14:32:10:055] - [DEBUG] - DB SELECT SQL: "SELECT * FROM `users` WHERE `username` = 'qwe' AND `password` = '76d80224611fc919a5d54f0ff9fba446'"
+-[18.09.20 14:32:10:109] - [DEBUG] - Array
+(
+    [id] => 67
+    [username] => qwe
+    [email] => qqwe@gmail.com
+    [password] => 76d80224611fc919a5d54f0ff9fba446
+)
+
+-[18.09.20 14:32:10:109] - [INFO] - DB Disconected
+-[18.09.20 14:32:10:121] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:32:10:121] - [INFO] - DB Connected.
+-[18.09.20 14:33:53:764] - [WARNING] - DataBase: Empty password is bad idea.
+-[18.09.20 14:33:53:789] - [INFO] - DB Connected.
+-[19.09.20 14:23:29:814] - [WARNING] - DataBase: Empty password is bad idea.
+-[19.09.20 14:23:29:885] - [INFO] - DB Connected.
