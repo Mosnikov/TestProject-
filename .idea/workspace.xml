@@ -20,94 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="946250f7-da23-44e1-985a-336d979b757a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TestProject-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_09_2020_12_48_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_09_2020_12_48__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_09_2020_13_40_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_09_2020_13_40__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/.bowerrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/Vagrantfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/assets/AppAsset.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/codeception.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/commands/HelloController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/config/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/config/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/config/params.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/config/test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/config/test_db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/config/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/controllers/SiteController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/mail/layouts/html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/models/ContactForm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/models/LoginForm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/requirements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/runtime/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/_bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/_data/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/_output/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/_support/AcceptanceTester.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/_support/FunctionalTester.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/_support/UnitTester.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/acceptance.suite.yml.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/acceptance/AboutCest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/acceptance/ContactCest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/acceptance/HomeCest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/acceptance/LoginCest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/acceptance/_bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/bin/yii" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/bin/yii.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/functional.suite.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/functional/ContactFormCest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/functional/LoginFormCest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/functional/_bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/unit.suite.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/unit/_bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/unit/models/ContactFormTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/unit/models/LoginFormTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/tests/unit/models/UserTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/config/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/config/vagrant-local.example.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/nginx/app.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/nginx/log/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/provision/always-as-root.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/provision/once-as-root.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/provision/once-as-vagrant.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/vagrant/provision/provision.awk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/views/layouts/main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/views/site/about.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/views/site/contact.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/views/site/error.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/views/site/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/views/site/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/assets/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/index-test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/web/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/widgets/Alert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/yii" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yii2.test/yii.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii2.test/controllers/PostCommentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii2.test/controllers/TestController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yii2.test/controllers/admin/MyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/yii2.test/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -213,6 +136,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iE41HO3JlZmTHrtX3rqHWCWW5D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -234,6 +160,7 @@
       <workItem from="1601459201890" duration="2204000" />
       <workItem from="1601462273970" duration="1537000" />
       <workItem from="1601642172672" duration="113000" />
+      <workItem from="1601647325226" duration="2997000" />
     </task>
     <servers />
   </component>
@@ -297,10 +224,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" key="MergeDialog/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1601462497236" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601642276675">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="-724" y="394" key="NewPhpClassDialog" timestamp="1601650221636">
+      <screen x="-1024" y="307" width="1024" height="728" />
+    </state>
+    <state x="-724" y="394" key="NewPhpClassDialog/-1024.307.1024.728/0.0.1920.1040@-1024.307.1024.728" timestamp="1601650221636" />
+    <state x="-816" y="435" key="Vcs.Push.Dialog.v2" timestamp="1601650283506">
+      <screen x="-1024" y="307" width="1024" height="728" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/-1024.307.1024.718/0.0.1536.824@0.0.1536.824" timestamp="1601642276675" />
+    <state x="-816" y="435" key="Vcs.Push.Dialog.v2/-1024.307.1024.728/0.0.1920.1040@-1024.307.1024.728" timestamp="1601650283506" />
     <state x="550" y="125" key="git4idea.branch.GitSmartOperationDialog" timestamp="1601462445977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
