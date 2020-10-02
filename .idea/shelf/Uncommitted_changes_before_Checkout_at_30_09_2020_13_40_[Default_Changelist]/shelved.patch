@@ -1,0 +1,220 @@
+Index: newsedit.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n  ////////////////////////////////////////////////////////////\r\n  // 2006-2007 (C) IT-пїЅпїЅпїЅпїЅпїЅпїЅ SoftTime (http://www.softtime.ru)\r\n  ////////////////////////////////////////////////////////////\r\n  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ (http://www.softtime.ru/info/articlephp.php?id_article=23)\r\n  Error_Reporting(E_ALL & ~E_NOTICE); \r\n  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ\r\n  require_once(\"../../config/config.php\");\r\n  //nkjnkj\r\n  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n  require_once(\"../utils/security_mod.php\");\r\n  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ\r\n  require_once(\"../../config/class.config.dmn.php\");\r\n\r\n  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SQL-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n  $_GET['id_ns'] = intval($_GET['id_news']);\r\n\r\n  try\r\n  {\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ news пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n    $query = \"SELECT * FROM $tbl_news\r\n              WHERE id_news=$_GET[id_news]\";\r\n    $new = mysql_query($query);\r\n    if(!$new)\r\n    {\r\n      throw new ExceptionMySQL(mysql_error(), \r\n                               $query,\r\n                              \"пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n                               пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\");\r\n    }\r\n    $news = mysql_fetch_array($new);\r\n    if(empty($_POST))\r\n    {\r\n      // пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ\r\n      $_REQUEST = $news;\r\n      $_REQUEST['date']['month']  = substr($news['putdate'],5,2);\r\n      $_REQUEST['date']['day']    = substr($news['putdate'],8,2);\r\n      $_REQUEST['date']['year']   = substr($news['year'],0,4);\r\n      $_REQUEST['date']['putdate']   = substr($news['putdate'],11,2);\r\n      $_REQUEST['date']['minute'] = substr($news['putdate'],14,2);\r\n      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ\r\n      if($news['hide'] == 'show') $_REQUEST['hide'] = true;\r\n      else $_REQUEST['hide'] = false;\r\n    }\r\n  \r\n    $name        = new field_text(\"name\",\r\n                                  \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                                  true,\r\n                                  $_REQUEST['name']);\r\n    $body = new field_textarea(\"body\",\r\n                               \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                               true,\r\n                               $_REQUEST['body']);\r\n    $url         = new field_text(\"url\",\r\n                                  \"пїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                                  false,\r\n                                  $_REQUEST['url']);\r\n    $urltext    = new field_text(\"urltext\",\r\n                                  \"пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                                  false,\r\n                                  $_REQUEST['urltext']);\r\n    $date        = new field_datetime(\"date\",\r\n                                  \"пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                                  $_REQUEST['date']);\r\n    $hide        = new field_checkbox(\"hide\",\r\n                               \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                               $_REQUEST['hide']);\r\n    $filename   = new field_file(\"filename\",\r\n                                 \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                                 false,\r\n                                 $_FILES,\r\n                                 \"../../files/news/\");\r\n    $id_news    = new field_hidden_int(\"id_news\",\r\n                                       true,\r\n                                       $_REQUEST['id_news']);\r\n    $page       = new field_hidden_int(\"page\",\r\n                                       false,\r\n                                       $_REQUEST['page']);\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ name пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n    // textarea\r\n    if(empty($news['urlpict']))\r\n    {\r\n      $form = new form(array(\"name\" => $name, \r\n                            \"body\" => $body, \r\n                            \"url\" => $url,\r\n                            \"urltext\" => $urltext,\r\n                            \"date\" => $date,\r\n                            \"hide\" => $hide,\r\n                            \"filename\" => $filename,\r\n                            \"id_news\" => $id_news,\r\n                            \"page\" => $page), \r\n                    \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                    \"field\");\r\n    }\r\n    else\r\n    {\r\n      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n      $delimg = new field_checkbox(\"delimg\",\r\n                               \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                               $_REQUEST['delimg']);\r\n      $form = new form(array(\"name\" => $name, \r\n                            \"body\" => $body, \r\n                            \"url\" => $url,\r\n                            \"urltext\" => $urltext,\r\n                            \"date\" => $date,\r\n                            \"hide\" => $hide,\r\n                            \"delimg\" => $delimg,\r\n                            \"filename\" => $filename, \r\n                            \"id_news\" => $id_news,\r\n                            \"page\" => $page), \r\n                    \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\",\r\n                    \"field\");\r\n    }\r\n\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ HTML-пїЅпїЅпїЅпїЅпїЅ\r\n    if(!empty($_POST))\r\n    {\r\n      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ HTML-пїЅпїЅпїЅпїЅпїЅ\r\n      // пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ\r\n      $error = $form->check();\r\n      if(empty($error))\r\n      {\r\n        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n        if($form->fields['hide']->value) $showhide = \"show\";\r\n        else $showhide = \"hide\";\r\n        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n        $url_pict = \"\";\r\n        $str = $form->fields['delimg']->value;\r\n        if(!empty($str) || !empty($_FILES['filename']['name']))\r\n        {\r\n          $path = str_replace(\"//\",\"/\",\"../../\".$news['urlpict']);\r\n          if(file_exists($path))\r\n          {\r\n            @unlink($path);\r\n          }\r\n          $url_pict = \"urlpict = '',\";\r\n        }\r\n        if(!empty($_FILES['filename']['name']))\r\n        {\r\n          $url_pict = \"urlpict = 'files/news/\".\r\n                       $form->fields['filename']->get_filename().\"',\";\r\n        }\r\n        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SQL-пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n        $query = \"UPDATE $tbl_news \r\n                  SET name = '{$form->fields['name']->value}',\r\n                      body = '{$form->fields['body']->value}',\r\n                 putdate = '{$form->fields['date']->get_mysql_format()}',\r\n                      url = '{$form->fields['url']->value}',\r\n                      urltext = '{$form->fields['urltext']->value}',\r\n                      $url_pict\r\n                      hide = '{$showhide}'\r\n                  WHERE id_news=\".$form->fields['id_news']->value;\r\n        if(!mysql_query($query))\r\n        {\r\n          throw new ExceptionMySQL(mysql_error(), \r\n                                   $query,\r\n                                  \"пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ \r\n                                   пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\");\r\n        }\r\n        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n        header(\"Location: index.php?page={$form->fields[page]->value}\");\r\n        exit();\r\n      }\r\n    }\r\n\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.\r\n    $title = \"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\";\r\n    $pageinfo='<p class=\"help\"></p>';\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n    require_once(\"../utils/top.php\");\r\n  \r\n    echo \"<p><a href=# onClick='history.back()'>пїЅпїЅпїЅпїЅпїЅ</a></p>\";\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n    if(!empty($error))\r\n    {\r\n      foreach($error as $err)\r\n      {\r\n        echo \"<span style=\\\"color:red\\\">$err</span><br>\";\r\n      }\r\n    }\r\n    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ HTML-пїЅпїЅпїЅпїЅпїЅ \r\n    $form->print_form();\r\n  }\r\n  catch(ExceptionObject $exc) \r\n  {\r\n    require(\"../utils/exception_object.php\"); \r\n  }\r\n  catch(ExceptionMySQL $exc)\r\n  {\r\n    require(\"../utils/exception_mysql.php\"); \r\n  }\r\n  catch(ExceptionMember $exc)\r\n  {\r\n    require(\"../utils/exception_member.php\"); \r\n  }\r\n\r\n  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ\r\n  require_once(\"../utils/bottom.php\");\r\n?>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1251
+===================================================================
+--- newsedit.php	(revision a756313e58619af72e3028d7817a5d306a032512)
++++ newsedit.php	(date 1601462311397)
+@@ -1,24 +1,24 @@
+ <?php
+   ////////////////////////////////////////////////////////////
+-  // 2006-2007 (C) IT-пїЅпїЅпїЅпїЅпїЅпїЅ SoftTime (http://www.softtime.ru)
++  // 2006-2007 (C) IT-?????? SoftTime (http://www.softtime.ru)
+   ////////////////////////////////////////////////////////////
+-  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ (http://www.softtime.ru/info/articlephp.php?id_article=23)
++  // ?????????? ??????? ????????? ?????? (http://www.softtime.ru/info/articlephp.php?id_article=23)
+   Error_Reporting(E_ALL & ~E_NOTICE); 
+-  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
++  // ????????????? ?????????? ? ????? ??????
+   require_once("../../config/config.php");
+   //nkjnkj
+-  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++  // ?????????? ???? ???????????
+   require_once("../utils/security_mod.php");
+-  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
++  // ?????????? ?????? ?????
+   require_once("../../config/class.config.dmn.php");
+ 
+-  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SQL-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++  // ????????????? SQL-????????
+   $_GET['id_ns'] = intval($_GET['id_news']);
+ 
+   try
+   {
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ news пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++    // ????????? ?? ??????? news ??????, ???????????????
++    // ????????????? ?????????? ?????????
+     $query = "SELECT * FROM $tbl_news
+               WHERE id_news=$_GET[id_news]";
+     $new = mysql_query($query);
+@@ -26,48 +26,48 @@
+     {
+       throw new ExceptionMySQL(mysql_error(), 
+                                $query,
+-                              "пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+-                               пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
++                              "?????? ??? ?????????
++                               ? ??????? ????????");
+     }
+     $news = mysql_fetch_array($new);
+     if(empty($_POST))
+     {
+-      // пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
++      // ????? ?????????? ??? ?????????? ?????????? ?? ???? ??????
+       $_REQUEST = $news;
+       $_REQUEST['date']['month']  = substr($news['putdate'],5,2);
+       $_REQUEST['date']['day']    = substr($news['putdate'],8,2);
+       $_REQUEST['date']['year']   = substr($news['year'],0,4);
+       $_REQUEST['date']['putdate']   = substr($news['putdate'],11,2);
+       $_REQUEST['date']['minute'] = substr($news['putdate'],14,2);
+-      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅ
++      // ??????????, ?????? ???? ??? ???
+       if($news['hide'] == 'show') $_REQUEST['hide'] = true;
+       else $_REQUEST['hide'] = false;
+     }
+   
+     $name        = new field_text("name",
+-                                  "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                                  "????????",
+                                   true,
+                                   $_REQUEST['name']);
+     $body = new field_textarea("body",
+-                               "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                               "??????????",
+                                true,
+                                $_REQUEST['body']);
+     $url         = new field_text("url",
+-                                  "пїЅпїЅпїЅпїЅпїЅпїЅ",
++                                  "??????",
+                                   false,
+                                   $_REQUEST['url']);
+     $urltext    = new field_text("urltext",
+-                                  "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ",
++                                  "????? ??????",
+                                   false,
+                                   $_REQUEST['urltext']);
+     $date        = new field_datetime("date",
+-                                  "пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                                  "???? ???????",
+                                   $_REQUEST['date']);
+     $hide        = new field_checkbox("hide",
+-                               "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                               "??????????",
+                                $_REQUEST['hide']);
+     $filename   = new field_file("filename",
+-                                 "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                                 "???????????",
+                                  false,
+                                  $_FILES,
+                                  "../../files/news/");
+@@ -77,8 +77,8 @@
+     $page       = new field_hidden_int("page",
+                                        false,
+                                        $_REQUEST['page']);
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ - пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ name пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++    // ?????????? ????? ???????? ?? ???? ?????????
++    // ?????????? - ???? ????? name ? ????????? ???????
+     // textarea
+     if(empty($news['urlpict']))
+     {
+@@ -91,14 +91,14 @@
+                             "filename" => $filename,
+                             "id_news" => $id_news,
+                             "page" => $page), 
+-                    "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                    "?????????????",
+                     "field");
+     }
+     else
+     {
+-      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++      // ???????? ???????????
+       $delimg = new field_checkbox("delimg",
+-                               "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                               "??????? ???????????",
+                                $_REQUEST['delimg']);
+       $form = new form(array("name" => $name, 
+                             "body" => $body, 
+@@ -110,22 +110,22 @@
+                             "filename" => $filename, 
+                             "id_news" => $id_news,
+                             "page" => $page), 
+-                    "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ",
++                    "?????????????",
+                     "field");
+     }
+ 
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ HTML-пїЅпїЅпїЅпїЅпїЅ
++    // ?????????? HTML-?????
+     if(!empty($_POST))
+     {
+-      // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ HTML-пїЅпїЅпїЅпїЅпїЅ
+-      // пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ
++      // ????????? ???????????? ?????????? HTML-?????
++      // ? ???????????? ????????? ????
+       $error = $form->check();
+       if(empty($error))
+       {
+-        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++        // ??????? ??? ???????? ???????
+         if($form->fields['hide']->value) $showhide = "show";
+         else $showhide = "hide";
+-        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++        // ??????? ?????? ?????, ???? ??? ???????
+         $url_pict = "";
+         $str = $form->fields['delimg']->value;
+         if(!empty($str) || !empty($_FILES['filename']['name']))
+@@ -142,7 +142,7 @@
+           $url_pict = "urlpict = 'files/news/".
+                        $form->fields['filename']->get_filename()."',";
+         }
+-        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ SQL-пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++        // ????????? SQL-?????? ?? ?????????? ???????
+         $query = "UPDATE $tbl_news 
+                   SET name = '{$form->fields['name']->value}',
+                       body = '{$form->fields['body']->value}',
+@@ -156,24 +156,24 @@
+         {
+           throw new ExceptionMySQL(mysql_error(), 
+                                    $query,
+-                                  "пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 
+-                                   пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
++                                  "?????? ??? ?????????????? 
++                                   ?????????? ?????????");
+         }
+-        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+-        // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++        // ???????????? ????????????? ?? ??????? ????????
++        // ?????????????????
+         header("Location: index.php?page={$form->fields[page]->value}");
+         exit();
+       }
+     }
+ 
+-    // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
+-    $title = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
++    // ?????? ?????????? ?????????? ???????? ???????? ? ?????????.
++    $title = "?????????????? ???????";
+     $pageinfo='<p class="help"></p>';
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++    // ???????? ????????? ????????
+     require_once("../utils/top.php");
+   
+-    echo "<p><a href=# onClick='history.back()'>пїЅпїЅпїЅпїЅпїЅ</a></p>";
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++    echo "<p><a href=# onClick='history.back()'>?????</a></p>";
++    // ??????? ????????? ?? ???????, ???? ??? ???????
+     if(!empty($error))
+     {
+       foreach($error as $err)
+@@ -181,7 +181,7 @@
+         echo "<span style=\"color:red\">$err</span><br>";
+       }
+     }
+-    // пїЅпїЅпїЅпїЅпїЅпїЅпїЅ HTML-пїЅпїЅпїЅпїЅпїЅ 
++    // ??????? HTML-????? 
+     $form->print_form();
+   }
+   catch(ExceptionObject $exc) 
+@@ -197,6 +197,6 @@
+     require("../utils/exception_member.php"); 
+   }
+ 
+-  // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
++  // ???????? ?????????? ????????
+   require_once("../utils/bottom.php");
+ ?>
